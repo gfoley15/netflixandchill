@@ -2,12 +2,12 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 0,Dick Johnson Is Dead,Movie,2020,Documentaries,Netflix,2021-09-25,tt11394180,7.4,"7,204",N/A,N/A
 1,My Little Pony: A New Generation,Movie,2021,Children & Family Movies,Netflix,2021-09-24,tt10101702,6.8,"4,475",N/A,N/A
 2,"Vendetta: Truth, Lies and The Mafia",TV Show,2021,Crime TV Shows,Netflix,2021-09-24,,,,,
-3,The Starling,Movie,2021,Comedies,Netflix,2021-09-24,tt5164438,6.4,"15,193",N/A,N/A
+3,The Starling,Movie,2021,Comedies,Netflix,2021-09-24,tt5164438,6.4,"15,290",N/A,N/A
 4,The Great British Baking Show,TV Show,2021,British TV Shows,Netflix,2021-09-24,tt1877368,8.6,"12,807",,
 5,Sankofa,Movie,1993,Dramas,Netflix,2021-09-24,tt0108041,7.0,784,"$2,198,984",N/A
 6,Blood & Water,TV Show,2021,International TV Shows,Netflix,2021-09-24,tt9839146,6.7,"4,132",,
 7,Midnight Mass,TV Show,2021,TV Dramas,Netflix,2021-09-24,tt10574558,7.7,"143,786",,
-8,Ganglands,TV Show,2021,Crime TV Shows,Netflix,2021-09-24,tt13278100,7.2,"4,487",,
+8,Ganglands,TV Show,2021,Crime TV Shows,Netflix,2021-09-24,tt13278100,7.2,"4,524",,
 9,Kota Factory,TV Show,2021,International TV Shows,Netflix,2021-09-24,tt9432978,9.0,"80,073",,
 10,Jailbirds New Orleans,TV Show,2021,Docuseries,Netflix,2021-09-24,tt15320436,6.6,299,,
 11,Je Suis Karl,Movie,2021,Dramas,Netflix,2021-09-23,tt9205538,5.5,"1,559",N/A,N/A
@@ -59,14 +59,14 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 57,Castle and Castle,TV Show,2021,International TV Shows,Netflix,2021-09-15,,,,,
 58,Naruto the Movie 3: Guardians of the Crescent Moon Kingdom,Movie,2006,Action & Adventure,Netflix,2021-09-15,tt1071815,6.3,"4,704",N/A,N/A
 59,Naruto the Movie: Ninja Clash in the Land of Snow,Movie,2004,Action & Adventure,Netflix,2021-09-15,tt0476680,6.6,"7,852",N/A,N/A
-60,Naruto Shippuden: The Movie,Movie,2007,Action & Adventure,Netflix,2021-09-15,tt1999167,7.1,"5,801",N/A,N/A
+60,Naruto Shippuden: The Movie,Movie,2007,Action & Adventure,Netflix,2021-09-15,tt1999167,7.1,"5,864",N/A,N/A
 61,InuYasha the Movie: Affections Touching Across Time,Movie,2001,Action & Adventure,Netflix,2021-09-15,tt0322645,7.2,"2,811",N/A,N/A
 62,Dharmakshetra,TV Show,2014,International TV Shows,Netflix,2021-09-15,tt6803712,8.5,410,,
 63,InuYasha the Movie 3: Swords of an Honorable Ruler,Movie,2003,Action & Adventure,Netflix,2021-09-15,tt0396659,7.6,"2,385",N/A,N/A
 64,InuYasha the Movie 4: Fire on the Mystic Island,Movie,2004,Action & Adventure,Netflix,2021-09-15,tt0473658,7.2,"1,990",N/A,N/A
 65,InuYasha the Movie 2: The Castle Beyond the Looking Glass,Movie,2002,Action & Adventure,Netflix,2021-09-15,tt0366621,7.3,"2,329",N/A,N/A
 66,Nailed It,TV Show,2021,Reality TV,Netflix,2021-09-15,tt9042156,7.3,30,N/A,N/A
-67,Naruto Shippuden the Movie: Blood Prison,Movie,2011,Action & Adventure,Netflix,2021-09-15,tt1999167,7.1,"5,801",N/A,N/A
+67,Naruto Shippuden the Movie: Blood Prison,Movie,2011,Action & Adventure,Netflix,2021-09-15,tt1999167,7.1,"5,864",N/A,N/A
 68,Naruto Shippûden the Movie: Bonds,Movie,2008,Action & Adventure,Netflix,2021-09-15,tt1160524,6.8,"5,265",N/A,N/A
 69,Naruto Shippûden the Movie: The Will of Fire,Movie,2009,Action & Adventure,Netflix,2021-09-15,,,,,
 70,Naruto the Movie 2: Legend of the Stone of Gelel,Movie,2005,Action & Adventure,Netflix,2021-09-15,tt0791188,6.4,"5,116",N/A,N/A
@@ -80,7 +80,7 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 78,Little Singham - Black Shadow,Movie,2021,Children & Family Movies,Netflix,2021-09-11,,,,,
 79,Tughlaq Durbar,Movie,2020,Comedies,Netflix,2021-09-11,tt9769668,5.3,"1,777",N/A,N/A
 80,Kate,Movie,2021,Action & Adventure,Netflix,2021-09-10,tt7737528,6.2,"70,436",N/A,N/A
-81,Lucifer,TV Show,2021,Crime TV Shows,Netflix,2021-09-10,tt4052886,8.1,"353,697",,
+81,Lucifer,TV Show,2021,Crime TV Shows,Netflix,2021-09-10,tt4052886,8.1,"355,960",,
 82,Metal Shop Masters,TV Show,2021,Reality TV,Netflix,2021-09-10,tt15216520,5.7,663,,
 83,Omo Ghetto: the Saga,Movie,2020,Action & Adventure,Netflix,2021-09-10,tt14099462,7.6,95,N/A,N/A
 84,Pokémon Master Journeys: The Series,TV Show,2021,Anime Series,Netflix,2021-09-10,,,,,
@@ -128,9 +128,9 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 126,Gurgaon,Movie,2017,Dramas,Netflix,2021-09-02,tt4699202,6.4,"2,450",N/A,N/A
 127,My Boss's Daughter,Movie,2003,Comedies,Netflix,2021-09-01,tt0270980,4.7,"30,601","$15,550,605",N/A
 128,Open Season 2,Movie,2008,Children & Family Movies,Netflix,2021-09-01,tt1107365,5.5,"26,350",N/A,N/A
-129,Once Upon a Time in America,Movie,1984,Classic Movies,Netflix,2021-09-01,tt0087843,8.3,"375,767","$5,321,508",N/A
+129,Once Upon a Time in America,Movie,1984,Classic Movies,Netflix,2021-09-01,tt0087843,8.3,"377,702","$5,321,508",N/A
 130,Oldsters,TV Show,2019,Crime TV Shows,Netflix,2021-09-01,,,,,
-131,Mystery Men,Movie,1999,Action & Adventure,Netflix,2021-09-01,tt0132347,6.1,"70,482","$29,762,011",N/A
+131,Mystery Men,Movie,1999,Action & Adventure,Netflix,2021-09-01,tt0132347,6.1,"70,637","$29,762,011",N/A
 132,Major Dad,TV Show,1992,TV Comedies,Netflix,2021-09-01,tt0096643,6.5,"3,129",,
 133,Marshall,Movie,2017,Dramas,Netflix,2021-09-01,tt5301662,7.3,"26,798","$10,051,659",N/A
 134,Mars Attacks!,Movie,1996,Comedies,Netflix,2021-09-01,tt0116996,6.4,"242,847","$37,781,197",N/A
@@ -151,7 +151,7 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 149,The Nutty Professor II: The Klumps,Movie,2000,Comedies,Netflix,2021-09-01,tt7892058,N/A,N/A,N/A,N/A
 150,Turning Point: 9/11 and the War on Terror,TV Show,2021,Docuseries,Netflix,2021-09-01,tt15260794,7.9,"11,113",,
 151,Welcome Home Roscoe Jenkins,Movie,2008,Comedies,Netflix,2021-09-01,tt0494652,5.5,"15,661","$42,436,517",N/A
-152,Labyrinth,Movie,1986,Action & Adventure,Netflix,2021-09-01,tt0091369,7.3,"148,603","$13,723,253",N/A
+152,Labyrinth,Movie,1986,Action & Adventure,Netflix,2021-09-01,tt0091369,7.3,"149,584","$13,723,253",N/A
 153,Letters to Juliet,Movie,2010,Comedies,Netflix,2021-09-01,tt0892318,6.5,"106,976","$53,032,453",N/A
 154,Rhyme & Reason,Movie,1997,Documentaries,Netflix,2021-09-01,tt0120014,7.4,913,"$1,608,277",N/A
 155,Kuroko's Basketball,TV Show,2015,Anime Series,Netflix,2021-09-01,tt2348803,8.2,"11,242",,
@@ -224,9 +224,9 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 222,Wheel of Fortune,TV Show,2019,Reality TV,Netflix,2021-08-25,tt0072584,6.7,"3,532",,
 223,The Water Man,Movie,2021,Children & Family Movies,Netflix,2021-08-25,tt4779326,5.6,"4,592","$383,234",N/A
 224,The River Runner,Movie,2021,Documentaries,Netflix,2021-08-25,tt15293256,6.9,"2,022",N/A,N/A
-225,The Old Ways,Movie,2020,Horror Movies,Netflix,2021-08-25,tt12829958,5.4,"7,764",N/A,N/A
-226,The November Man,Movie,2014,Action & Adventure,Netflix,2021-08-25,tt2402157,6.3,"70,404","$25,018,119",N/A
-227,Open Your Eyes,TV Show,2021,International TV Shows,Netflix,2021-08-25,tt0125659,7.7,"73,059","$370,720",N/A
+225,The Old Ways,Movie,2020,Horror Movies,Netflix,2021-08-25,tt12829958,5.4,"7,834",N/A,N/A
+226,The November Man,Movie,2014,Action & Adventure,Netflix,2021-08-25,tt2402157,6.3,"70,549","$25,018,119",N/A
+227,Open Your Eyes,TV Show,2021,International TV Shows,Netflix,2021-08-25,tt0125659,7.7,"73,241","$370,720",N/A
 228,Post Mortem: No One Dies in Skarnes,TV Show,2021,International TV Shows,Netflix,2021-08-25,tt13053222,7.1,"4,075",,
 229,John of God: The Crimes of a Spiritual Healer,TV Show,2021,Crime TV Shows,Netflix,2021-08-25,tt15233856,6.5,"1,021",,
 230,Clickbait,TV Show,2021,Crime TV Shows,Netflix,2021-08-25,tt10888878,7.2,"60,112",,
@@ -241,11 +241,11 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 239,Boomika (Malayalam),Movie,2021,Horror Movies,Netflix,2021-08-23,,,,,
 240,Boomika (Hindi),Movie,2021,Horror Movies,Netflix,2021-08-23,,,,,
 241,Manifest,TV Show,2021,TV Dramas,Netflix,2021-08-21,tt8421350,7.1,"90,595",,
-242,The Loud House Movie,Movie,2021,Children & Family Movies,Netflix,2021-08-20,tt6714432,6.1,"2,809",N/A,N/A
+242,The Loud House Movie,Movie,2021,Children & Family Movies,Netflix,2021-08-20,tt6714432,6.1,"2,872",N/A,N/A
 243,Man in Love,Movie,2021,Dramas,Netflix,2021-08-20,tt14428606,7.0,"3,006",N/A,N/A
 244,Sweet Girl,Movie,2021,Action & Adventure,Netflix,2021-08-20,tt10731768,5.5,"35,228",N/A,N/A
 245,The Chair,TV Show,2021,TV Comedies,Netflix,2021-08-20,tt11834150,7.2,"18,879",,
-246,Korean Cold Noodle Rhapsody,TV Show,2021,Docuseries,Netflix,2021-08-20,tt15772846,N/A,47,,
+246,Korean Cold Noodle Rhapsody,TV Show,2021,Docuseries,Netflix,2021-08-20,tt15772846,N/A,53,,
 247,Everything Will Be Fine,TV Show,2021,International TV Shows,Netflix,2021-08-20,tt1403846,6.1,843,N/A,N/A
 248,Comedy Premium League,TV Show,2021,International TV Shows,Netflix,2021-08-20,tt14167428,4.8,"1,656",,
 249,Gunshot,Movie,2018,Dramas,Netflix,2021-08-20,tt8098636,6.8,697,N/A,N/A
@@ -271,7 +271,7 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 269,Rascal Does Not Dream of Bunny Girl Senpai,TV Show,2018,Anime Series,Netflix,2021-08-15,tt8993398,8.0,"16,274",,
 270,Beckett,Movie,2021,Action & Adventure,Netflix,2021-08-13,tt10230994,5.7,"28,413",N/A,N/A
 271,Brand New Cherry Flavor,TV Show,2021,TV Dramas,Netflix,2021-08-13,tt11343600,7.1,"19,031",,
-272,Fast & Furious Spy Racers,TV Show,2021,Kids' TV,Netflix,2021-08-13,tt8322592,5.9,"1,716",,
+272,Fast & Furious Spy Racers,TV Show,2021,Kids' TV,Netflix,2021-08-13,tt8322592,5.9,"1,741",,
 273,Gone for Good,TV Show,2021,Crime TV Shows,Netflix,2021-08-13,tt14252964,6.3,"5,257",,
 274,Grace and Frankie,TV Show,2021,TV Comedies,Netflix,2021-08-13,tt3609352,8.2,"56,777",,
 275,The Kingdom,TV Show,2021,Crime TV Shows,Netflix,2021-08-13,tt0431197,7.0,"132,252","$47,536,778",N/A
@@ -287,7 +287,7 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 285,Brother Jekwu,Movie,2016,Comedies,Netflix,2021-08-11,tt8857316,N/A,N/A,N/A,N/A
 286,Gabby's Dollhouse,TV Show,2021,Kids' TV,Netflix,2021-08-10,tt9165438,7.2,724,,
 287,I Need Romance,TV Show,2021,International TV Shows,Netflix,2021-08-10,tt3340752,7.0,296,,
-288,Las muñecas de la mafia,TV Show,2018,Crime TV Shows,Netflix,2021-08-10,tt1585368,6.6,355,,
+288,Las muñecas de la mafia,TV Show,2018,Crime TV Shows,Netflix,2021-08-10,tt1585368,6.6,366,,
 289,The Crowned Clown,TV Show,2019,International TV Shows,Netflix,2021-08-10,tt9266592,8.0,"1,459",,
 290,Untold: Malice at the Palace,Movie,2021,Documentaries,Netflix,2021-08-10,tt15085802,7.5,"9,658",N/A,N/A
 291,SHAMAN KING,TV Show,2021,Anime Series,Netflix,2021-08-09,tt0367409,8.0,"6,444",,
@@ -499,503 +499,703 @@ index,title,type,release_year,primary_genre,platform,date_added,imdb_id,imdb_rat
 497,This Little Love Of Mine,Movie,2021,International Movies,Netflix,2021-07-07,tt12546872,5.4,"3,265",N/A,N/A
 498,Therapy,Movie,2020,Dramas,Netflix,2021-07-07,tt5783382,5.2,341,N/A,N/A
 499,The War Next-door,TV Show,2021,International TV Shows,Netflix,2021-07-07,tt14821886,5.7,528,,
-500,Duck the Halls: A Mickey Mouse Christmas Special,Movie,2016,Animation,Disney+,2021-11-26,tt24580526,N/A,106,N/A,N/A
-501,The Queen Family Singalong,Movie,2021,Musical,Disney+,2021-11-26,tt15716286,6.1,117,N/A,N/A
-502,Ernest Saves Christmas,Movie,1988,Comedy,Disney+,2021-11-26,tt0095107,5.7,"12,858","$28,202,109",N/A
-503,Ice Age: A Mammoth Christmas,Movie,2011,Animation,Disney+,2021-11-26,tt2100546,6.4,"11,247",N/A,N/A
-504,The Beatles: Get Back,TV Show,2021,Docuseries,Disney+,2021-11-25,tt9735318,9.0,"27,899",,
-505,Becoming Cousteau,Movie,2021,Biographical,Disney+,2021-11-24,tt10334438,7.1,"1,405","$231,687",N/A
-506,Port Protection Alaska,TV Show,2015,Docuseries,Disney+,2021-11-24,,,,,
-507,Secrets of the Zoo: Tampa,TV Show,2019,Animals & Nature,Disney+,2021-11-24,tt11708046,7.9,114,,
-508,Hawkeye,TV Show,2021,Action-Adventure,Disney+,2021-11-24,tt10160804,7.5,"213,652",,
-509,A Muppets Christmas: Letters To Santa,Movie,2008,Comedy,Disney+,2021-11-19,tt1292569,6.3,"2,501",N/A,N/A
-510,Adventure Thru the Walt Disney Archives,Movie,2020,Documentary,Disney+,2021-11-19,tt15222206,7.2,164,N/A,N/A
-511,Puppy for Hanukkah,Movie,2020,Comedy,Disney+,2021-11-19,tt13596276,N/A,N/A,N/A,N/A
-512,The Pixar Story,Movie,2007,Documentary,Disney+,2021-11-19,tt1059955,7.7,"6,996",N/A,N/A
-513,"Dr. Oakley, Yukon Vet",TV Show,2013,Action-Adventure,Disney+,2021-11-17,tt3593456,8.5,720,,
-514,The Little Matchgirl,Movie,2006,Animation,Disney+,2021-11-12,tt0816562,7.8,"5,173",N/A,N/A
-515,Paperman,Movie,2012,Animation,Disney+,2021-11-12,tt2388725,8.2,"35,152",N/A,N/A
-516,Pixar 2021 Disney+ Day Special,Movie,2021,Movies,Disney+,2021-11-12,tt16026492,N/A,116,N/A,N/A
-517,Tangled Ever After,Movie,2012,Animation,Disney+,2021-11-12,tt2112281,7.5,"18,933",N/A,N/A
-518,The Ballad of Nessie,Movie,2011,Animation,Disney+,2021-11-12,tt1827536,6.9,"2,264",N/A,N/A
-519,Tick Tock Tale,Movie,2010,Animation,Disney+,2021-11-12,tt1736313,7.3,"1,990",N/A,N/A
-520,The Making of Happier Than Ever: A Love Letter to Los Angeles,Movie,2021,Concert Film,Disney+,2021-11-12,tt16022750,N/A,121,N/A,N/A
-521,The Proud Family: Louder and Prouder,Movie,2021,Animation,Disney+,2021-11-12,tt11871764,3.1,"5,065",,
-522,The Simpsons in Plusaversary,Movie,2021,Animation,Disney+,2021-11-12,tt15829632,5.1,"1,641",N/A,N/A
-523,Obi-Wan Kenobi,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt8466564,7.1,"227,296",,
-524,Under the Helmet: The Legacy of Boba Fett,Movie,2021,Science Fiction,Disney+,2021-11-12,tt15715890,7.2,"1,674",N/A,N/A
-525,Willow,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt0096446,7.2,"129,152","$57,269,863",N/A
-526,Olaf Presents,TV Show,2021,Animation,Disney+,2021-11-12,tt15475608,7.3,"3,722",,
-527,Spin,Movie,2021,Coming of Age,Disney+,2021-11-12,tt0479164,7.8,"1,574",N/A,N/A
-528,Marvel Studios’ 2021 Disney+ Day Special,Movie,2021,Movies,Disney+,2021-11-12,tt16045628,5.9,162,N/A,N/A
-529,Enchanted,Movie,2007,Comedy,Disney+,2021-11-12,tt0461770,7.1,"216,554","$127,807,262",N/A
-530,Limitless with Chris Hemsworth,Movie,2021,Lifestyle,Disney+,2021-11-12,,,,,
-531,America the Beautiful,Movie,2021,Animals & Nature,Disney+,2021-11-12,tt1040007,6.8,478,"$76,173",N/A
-532,Baymax!,Movie,2021,Animation,Disney+,2021-11-12,tt13622958,7.2,"8,597",,
-533,Ciao Alberto,Movie,2021,Animation,Disney+,2021-11-12,tt15476620,6.9,"8,413",N/A,N/A
-534,Disney Fancy Nancy,TV Show,2018,Animation,Disney+,2021-11-12,,,,,
-535,Disney Intertwined,TV Show,2021,Comedy,Disney+,2021-11-12,tt27512578,N/A,29,N/A,N/A
-536,Shang-Chi and The Legend of The Ten Rings,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt9376612,7.4,"435,548","$224,543,292",N/A
-537,Feast,Movie,2014,Animation,Disney+,2021-11-12,tt0426459,6.2,"33,820","$56,131",N/A
-538,Get a Horse!,Movie,2013,Action-Adventure,Disney+,2021-11-12,tt2980764,7.5,"5,578",N/A,N/A
-539,Home Sweet Home Alone,Movie,2021,Comedy,Disney+,2021-11-12,tt11012066,3.6,"20,293",N/A,N/A
-540,Jungle Cruise,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt0870154,6.6,"211,387","$116,987,516",N/A
-541,Frozen Fever,Movie,2015,Animation,Disney+,2021-11-12,tt4007502,6.8,"17,565",N/A,N/A
-542,Santa Buddies: The Legend of Santa Paws,Movie,2009,Comedy,Disney+,2021-11-05,,,,,
-543,X-Men: First Class,Movie,2011,Action-Adventure,Disney+,2021-11-05,tt1270798,7.7,"723,658","$146,408,305",N/A
-544,The Search for Santa Paws,Movie,2010,Drama,Disney+,2021-11-05,tt1544572,5.4,"2,437",N/A,N/A
-545,Snow Buddies,Movie,2008,Action-Adventure,Disney+,2021-11-05,tt1079448,5.2,"3,741",N/A,N/A
-546,Space Buddies,Movie,2009,Action-Adventure,Disney+,2021-11-05,tt1164647,4.3,"2,423",N/A,N/A
-547,Prep & Landing: Operation Secret Santa,Movie,2010,Animation,Disney+,2021-11-05,,,,,
-548,Jingle All the Way 2,Movie,2014,Comedy,Disney+,2021-11-05,tt3486392,3.9,"2,049",N/A,N/A
-549,Alvin and the Chipmunks: Chipwrecked,Movie,2011,Comedy,Disney+,2021-11-05,tt1615918,4.4,"39,406","$133,110,742",N/A
-550,Jingle All The Way,Movie,1996,Comedy,Disney+,2021-11-05,tt0116705,5.7,"115,889","$60,592,389",N/A
-551,Disney Amphibia,TV Show,2018,Animation,Disney+,2021-11-03,,,,,
-552,Photo Ark,TV Show,2017,Animals & Nature,Disney+,2021-11-03,tt7181320,8.2,71,,
-553,Storm Rising,TV Show,2021,Action-Adventure,Disney+,2021-11-03,tt15681488,7.4,115,,
-554,Bob Ballard: An Explorer's Life,Movie,2021,Biographical,Disney+,2021-10-29,tt15111904,N/A,46,N/A,N/A
-555,"McFarland, USA",Movie,2015,Drama,Disney+,2021-10-29,tt2097298,7.4,"42,009","$44,482,410",N/A
-556,Rookie of the Year,Movie,1993,Comedy,Disney+,2021-10-22,tt0107985,6.1,"30,850","$53,615,089",N/A
-557,Thumbelina,Movie,1994,Animation,Disney+,2021-10-22,tt0111419,6.2,"18,566","$11,373,501",N/A
-558,The Wild Life of Dr. Ole,TV Show,2021,Animals & Nature,Disney+,2021-10-20,tt14232200,7.8,36,,
-559,PJ Masks,TV Show,2015,Action-Adventure,Disney+,2021-10-20,tt4148744,5.3,"1,567",,
-560,Lost Cities with Albert Lin: The Great Flood,Movie,2021,Documentary,Disney+,2021-10-15,,,,,
-561,Megacity of the Maya Warriors,Movie,2021,Documentary,Disney+,2021-10-15,,,,,
-562,Apollo: Back To The Moon,TV Show,2019,Docuseries,Disney+,2021-10-13,tt8781928,6.6,96,N/A,N/A
-563,Secrets Of The Zoo: Down Under,TV Show,2020,Animals & Nature,Disney+,2021-10-13,tt15313408,N/A,48,,
-564,Secrets of the Zoo: North Carolina,TV Show,2020,Reality,Disney+,2021-10-13,tt13528684,7.8,71,,
-565,The Wizard of Paws,TV Show,2021,Animals & Nature,Disney+,2021-10-13,tt13897634,9.3,77,,
-566,Zombies: Addison's Moonstone Mystery,TV Show,2020,Animation,Disney+,2021-10-13,tt15379964,N/A,N/A,N/A,N/A
-567,Just Beyond,TV Show,2021,Anthology,Disney+,2021-10-13,tt12286434,6.2,"2,040",,
-568,Just Roll With It: You Decide Live!,Movie,2019,Comedy,Disney+,2021-10-08,,,,,
-569,Mickey's Tale of Two Witches,Movie,2021,Animation,Disney+,2021-10-08,tt15470224,6.0,185,N/A,N/A
-570,Muppets Haunted Mansion,Movie,2021,Comedy,Disney+,2021-10-08,tt14602326,6.3,"8,103",N/A,N/A
-571,The Most Magical Story on Earth: 50 Years of Walt Disney World,Movie,2021,Family,Disney+,2021-10-08,tt15534640,N/A,173,N/A,N/A
-572,Under Wraps,Movie,2021,Action-Adventure,Disney+,2021-10-08,tt0128801,6.5,"3,357",N/A,N/A
-573,Fauci,Movie,2021,Biographical,Disney+,2021-10-06,tt13984924,6.5,"12,757",N/A,N/A
-574,The Ghost and Molly McGee,TV Show,2021,Animation,Disney+,2021-10-06,tt10684374,7.5,"1,796",,
-575,IMPACT with Gal Gadot,TV Show,2021,Docuseries,Disney+,2021-10-06,tt14376656,4.3,129,,
-576,Drain the Oceans,TV Show,2017,Docuseries,Disney+,2021-10-06,tt8676618,7.5,712,,
-577,Drain The Oceans: The Mississippi River & Arctic War,TV Show,2021,Docuseries,Disney+,2021-10-06,,,,,
-578,Among the Stars,TV Show,2021,Docuseries,Disney+,2021-10-06,tt15428794,7.8,296,,
-579,Black Widow,Movie,2021,Action-Adventure,Disney+,2021-10-06,tt3480822,6.7,"423,439","$183,651,655",N/A
-580,Alvin and the Chipmunks,Movie,2007,Animation,Disney+,2021-10-01,tt0952640,5.2,"94,302","$217,326,974",N/A
-581,Alvin and the Chipmunks: The Road Chip,Movie,2015,Comedy,Disney+,2021-10-01,tt2974918,4.9,"22,383","$85,886,987",N/A
-582,LEGO Star Wars Terrifying Tales,Movie,2021,Action-Adventure,Disney+,2021-10-01,tt15164924,6.1,"2,730",N/A,N/A
-583,Maleficent,Movie,2014,Action-Adventure,Disney+,2021-10-01,tt1587310,6.9,"400,091","$241,410,378",N/A
-584,The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular,Movie,2017,Animation,Disney+,2021-10-01,,,,,
-585,Rolie Polie Olie,TV Show,1998,Animation,Disney+,2021-09-29,tt0172049,6.3,"3,256",,
-586,The Simpsons,TV Show,1989,Animation,Disney+,2021-09-29,tt0096697,8.7,"435,879",,
-587,The Hatcher Family Dairy,TV Show,2021,Animals & Nature,Disney+,2021-09-29,tt15058696,8.8,90,,
-588,Star Wars Galaxy of Sounds,TV Show,2021,Animation,Disney+,2021-09-29,tt15516280,6.9,412,,
-589,Ready for Preschool,TV Show,2019,Kids,Disney+,2021-09-29,tt13689142,N/A,14,,
-590,Great Barrier Reef,TV Show,2020,Animals & Nature,Disney+,2021-09-29,tt2185885,8.3,781,,
-591,Disney Vampirina,TV Show,2017,Animation,Disney+,2021-09-29,,,,,
-592,Disney's Magic Bake-Off,TV Show,2021,Family,Disney+,2021-09-29,tt14539670,6.5,84,,
-593,A Spark Story,Movie,2021,Documentary,Disney+,2021-09-24,tt11963126,N/A,200,N/A,N/A
-594,Spooky Buddies,Movie,2011,Comedy,Disney+,2021-09-24,tt1792131,4.6,"1,719",N/A,N/A
-595,The Fault in Our Stars,Movie,2014,Coming of Age,Disney+,2021-09-24,tt2582846,7.7,"399,879","$124,872,350",N/A
-596,Dog: Impossible,TV Show,2019,Animals & Nature,Disney+,2021-09-22,tt10981266,7.6,163,,
-597,Spidey And His Amazing Friends,TV Show,2021,Action-Adventure,Disney+,2021-09-22,tt10862280,5.8,983,,
-598,Star Wars: Visions,TV Show,2021,Action-Adventure,Disney+,2021-09-22,tt13622982,7.0,"23,600",,
-599,Flooded Tombs of the Nile,Movie,2021,Documentary,Disney+,2021-09-17,tt15286970,6.4,128,N/A,N/A
-600,Smoky Mountain Park Rangers,Movie,2021,Animals & Nature,Disney+,2021-09-17,tt21987160,N/A,20,N/A,N/A
-601,Nona,Movie,2021,Animation,Disney+,2021-09-17,tt15088994,6.5,910,N/A,N/A
-602,Jade Eyed Leopard,Movie,2020,Animals & Nature,Disney+,2021-09-17,,,,,
-603,Disney's Broadway Hits at London's Royal Albert Hall,Movie,2016,Concert Film,Disney+,2021-09-17,,,,,
-604,Descendants: Royal Wedding,Movie,2021,Animation,Disney+,2021-09-17,,,,,
-605,Confessions of a Shopaholic,Movie,2009,Comedy,Disney+,2021-09-17,tt1093908,5.8,"82,799","$44,277,350",N/A
-606,Life Below Zero,TV Show,2012,Action-Adventure,Disney+,2021-09-15,tt2964642,7.9,"2,237",,
-607,Miraculous: Tales Of Ladybug & Cat Noir,TV Show,2015,Action-Adventure,Disney+,2021-09-15,tt2580046,7.5,"15,341",,
-608,Unknown Waters with Jeremy Wade,TV Show,2021,Animals & Nature,Disney+,2021-09-15,tt17890420,N/A,68,,
-609,Far Away From Raven’s Home,Movie,2021,Comedy,Disney+,2021-09-10,,,,,
-610,Pirates of the Caribbean: On Stranger Tides,Movie,2011,Action-Adventure,Disney+,2021-09-10,tt1298650,6.6,"560,613","$241,071,802",N/A
-611,Twenty Something,Movie,2021,Animation,Disney+,2021-09-10,tt14023676,7.1,"1,098",N/A,N/A
-612,"Doogie Kamealoha, M.D.",TV Show,2021,Comedy,Disney+,2021-09-08,tt12225230,7.0,"3,300",,
-613,"Mira, Royal Detective",TV Show,2020,Animation,Disney+,2021-09-08,tt9357248,7.4,359,,
-614,Pepper Ann,TV Show,1997,Animation,Disney+,2021-09-08,tt0128890,7.1,"4,004",,
-615,The Incredible Dr. Pol,TV Show,2011,Animals & Nature,Disney+,2021-09-08,tt2136396,8.6,"2,116",,
-616,X-Men: Dark Phoenix,Movie,2019,Action-Adventure,Disney+,2021-09-03,tt10440726,6.5,41,N/A,N/A
-617,Tomorrowland,Movie,2015,Action-Adventure,Disney+,2021-09-03,tt1964418,6.4,"190,813","$93,436,322",N/A
-618,Happier Than Ever: A Love Letter to Los Angeles,Movie,2021,Concert Film,Disney+,2021-09-03,tt15094392,7.3,"1,697",N/A,N/A
-619,Dug Days,TV Show,2021,Animation,Disney+,2021-09-01,tt13624054,8.0,"5,425",,
-620,Alaska Animal Rescue,TV Show,2019,Animals & Nature,Disney+,2021-09-01,tt12188528,8.5,70,,
-621,Dan in Real Life,Movie,2007,Comedy,Disney+,2021-08-27,tt0480242,6.8,"106,712","$47,642,963",N/A
-622,Disney Princess Remixed - An Ultimate Princess Celebration,Movie,2021,Family,Disney+,2021-08-27,tt14993556,4.9,84,N/A,N/A
-623,Marvel One-Shot: All Hail the King,Movie,2014,Comedy,Disney+,2021-08-27,tt3438640,7.4,"8,120",N/A,N/A
-624,Underdog,Movie,2007,Action-Adventure,Disney+,2021-08-27,tt0467110,4.8,"22,677","$43,760,605",N/A
-625,Cruella,Movie,2021,Crime,Disney+,2021-08-27,tt3228774,7.3,"264,118","$86,103,234",N/A
-626,Dr. K's Exotic Animal ER,TV Show,2014,Animals & Nature,Disney+,2021-08-25,tt3986852,8.2,427,,
-627,Gigantosaurus,TV Show,2018,Action-Adventure,Disney+,2021-08-25,tt9636800,6.7,234,,
-628,Life Below Zero: Next Generation,TV Show,2020,Action-Adventure,Disney+,2021-08-25,tt13049144,5.6,314,,
-629,Eragon,Movie,2006,Action-Adventure,Disney+,2021-08-20,tt0449010,5.1,"130,303","$75,030,163",N/A
-630,Growing Up Animal,TV Show,2021,Animals & Nature,Disney+,2021-08-18,tt13891272,8.0,156,,
-631,Aquamarine,Movie,2006,Comedy,Disney+,2021-08-13,tt0429591,5.4,"44,966","$18,597,342",N/A
-632,X-Men,Movie,2000,Action-Adventure,Disney+,2021-08-13,tt0120903,7.3,"646,262","$157,299,718",N/A
-633,Fantastic Four,Movie,2005,Action-Adventure,Disney+,2021-08-13,tt0120667,5.7,"343,749","$154,696,080",N/A
-634,America's Funniest Home Videos: Animal Edition,TV Show,2021,Reality,Disney+,2021-08-11,,,,,
-635,Disney Presents Goofy in How to Stay at Home,TV Show,2021,Animation,Disney+,2021-08-11,,,,,
-636,Gabby Duran And The Unsittables,TV Show,2018,Comedy,Disney+,2021-08-11,tt12416372,N/A,9,,
-637,What If...?,TV Show,2021,Action-Adventure,Disney+,2021-08-11,tt10168312,7.4,"142,298",,
-638,Chicken Squad,TV Show,2021,Animation,Disney+,2021-08-11,tt11204188,5.7,174,,
-639,Beverly Hills Chihuahua 2,Movie,2011,Action-Adventure,Disney+,2021-08-06,tt1482393,4.2,"3,568",N/A,N/A
-640,Beverly Hills Chihuahua 3: Viva La Fiesta!,Movie,2012,Comedy,Disney+,2021-08-06,tt2224075,4.4,"1,796",N/A,N/A
-641,Killer Shark vs Killer Whale,Movie,2021,Animals & Nature,Disney+,2021-08-06,tt14811958,6.4,42,N/A,N/A
-642,Mrs. Doubtfire,Movie,1993,Comedy,Disney+,2021-08-06,tt0107614,7.1,"290,021","$219,195,243",N/A
-643,Cesar Millan: Better Human Better Dog,TV Show,2021,Animals & Nature,Disney+,2021-08-04,tt15083978,8.3,287,,
-644,Walt Disney Animation Studios: Short Circuit Experimental Films,TV Show,2020,Animation,Disney+,2021-08-04,,,,,
-645,Built for Mars: The Perseverance Rover,Movie,2021,Documentary,Disney+,2021-07-30,tt13932270,N/A,97,N/A,N/A
-646,Garfield,Movie,2004,Comedy,Disney+,2021-07-30,tt6585312,8.5,144,N/A,N/A
-647,Critter Fixers: Country Vets,TV Show,2020,Animals & Nature,Disney+,2021-07-28,tt11929804,8.8,241,,
-648,Mickey Mouse Funhouse,TV Show,2021,Animation,Disney+,2021-07-28,tt13262134,5.5,335,,
-649,Minnie's Bow-Toons: Party Palace Pals,TV Show,2021,Animation,Disney+,2021-07-28,,,,,
-650,Turning the Tables with Robin Roberts,TV Show,2021,Talk Show,Disney+,2021-07-28,tt14598810,6.3,84,,
-651,Chip 'n' Dale: Park Life,TV Show,2021,Animation,Disney+,2021-07-28,tt10516496,6.0,507,,
-652,Disney Junior T.O.T.S.,TV Show,2018,Animation,Disney+,2021-07-28,,,,,
-653,Stuntman,Movie,2021,Documentary,Disney+,2021-07-23,tt6539830,6.6,419,N/A,N/A
-654,Walking with Dinosaurs: The Movie,Movie,2013,Action-Adventure,Disney+,2021-07-23,,,,,
-655,What the Shark?,Movie,2020,Animals & Nature,Disney+,2021-07-23,,,,,
-656,Shark vs. Whale,Movie,2020,Animals & Nature,Disney+,2021-07-23,tt12820178,N/A,68,N/A,N/A
-657,Shark vs. Surfer,Movie,2020,Animals & Nature,Disney+,2021-07-23,tt13161852,6.1,33,N/A,N/A
-658,Playing with Sharks,Movie,2021,Animals & Nature,Disney+,2021-07-23,tt11226258,7.5,622,N/A,N/A
-659,Ice Age: The Meltdown,Movie,2006,Animation,Disney+,2021-07-23,tt0438097,6.8,"296,507","$195,330,621",N/A
-660,Behind the Attraction,TV Show,2021,Docuseries,Disney+,2021-07-21,tt11069436,7.7,"1,190",,
-661,Disney The Owl House,TV Show,2020,Action-Adventure,Disney+,2021-07-21,,,,,
-662,Meet Spidey and His Amazing Friends (Shorts),TV Show,2021,Action-Adventure,Disney+,2021-07-21,,,,,
-663,Mission Force One,TV Show,2017,Action-Adventure,Disney+,2021-07-21,,,,,
-664,Turner & Hooch,TV Show,2021,Action-Adventure,Disney+,2021-07-21,tt0098536,6.2,"76,052","$71,079,915",N/A
-665,We Bought a Zoo,Movie,2011,Animals & Nature,Disney+,2021-07-16,tt1389137,7.0,"150,584","$75,624,550",N/A
-666,World's Most Dangerous Shark?,Movie,2021,Animals & Nature,Disney+,2021-07-16,tt14811630,6.1,40,,
-667,World's Biggest Bullshark,Movie,2021,Animals & Nature,Disney+,2021-07-16,,,,,
-668,Shark Attack Investigation: The Paige Winter Story,Movie,2021,Animals & Nature,Disney+,2021-07-16,tt14811754,N/A,52,,
-669,Sharkcano,Movie,2020,Animals & Nature,Disney+,2021-07-16,tt21300912,N/A,22,N/A,N/A
-670,Most Wanted Sharks,Movie,2020,Animals & Nature,Disney+,2021-07-16,tt27870540,N/A,9,N/A,N/A
-671,Secrets of the Bull Shark,Movie,2020,Animals & Nature,Disney+,2021-07-16,tt13130602,N/A,29,N/A,N/A
-672,Shark Attack Files,TV Show,2021,Animals & Nature,Disney+,2021-07-16,tt14811706,N/A,37,,
-673,So Random!,TV Show,2011,Comedy,Disney+,2021-07-14,tt1934818,4.5,"2,560",,
-674,"Miraculous World: Shanghai, The Legend of Ladydragon",Movie,2021,Animation,Disney+,2021-07-09,,,,,
-675,Orca vs. Great White,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt14811196,5.5,129,N/A,N/A
-676,Rogue Shark?,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt14791580,6.6,64,N/A,N/A
-677,Shark Beach with Chris Hemsworth,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt12833014,6.6,561,N/A,N/A
-678,Shark Gangs,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt14811278,6.5,47,N/A,N/A
-679,The Croc That Ate Jaws,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt21397116,N/A,6,N/A,N/A
-680,When Sharks Attack,TV Show,2013,Reality,Disney+,2021-07-09,tt3097686,6.0,146,,
-681,Flicka,Movie,2006,Animals & Nature,Disney+,2021-07-09,tt0434215,6.0,"8,455","$21,000,147",N/A
-682,"The Good, The Bart, and The Loki",Movie,2021,Animation,Disney+,2021-07-07,tt14957270,6.1,"4,218",N/A,N/A
-683,Monsters at Work,TV Show,2021,Animation,Disney+,2021-07-07,tt8610082,7.0,"8,429",,
-684,Breaking Bobby Bones,TV Show,2021,Action-Adventure,Disney+,2021-07-07,tt14760138,N/A,62,,
-685,Mickey Mouse Mixed-Up Adventures,TV Show,2019,Animation,Disney+,2021-07-07,tt11130978,7.1,66,,
-686,Disney Raven's Home,TV Show,2016,Comedy,Disney+,2021-07-02,,,,,
-687,The Sandlot,Movie,1993,Comedy,Disney+,2021-07-02,tt0108037,7.8,"102,303","$32,950,136",N/A
-688,The Sandlot 2,Movie,2005,Comedy,Disney+,2021-07-02,tt0418131,4.5,"4,944",N/A,N/A
-689,Adventures in Babysitting,Movie,1987,Action-Adventure,Disney+,2021-06-25,tt0092513,6.9,"48,934","$34,368,475",N/A
-690,Running Wild with Bear Grylls,TV Show,2019,Action-Adventure,Disney+,2021-06-25,tt3816666,7.6,"2,998",,
-691,The Mysterious Benedict Society,TV Show,2021,Action-Adventure,Disney+,2021-06-25,tt11875316,7.6,"5,588",,
-692,Wolfgang,Movie,2021,Biographical,Disney+,2021-06-25,tt11146690,6.9,448,N/A,N/A
-693,Star Wars Vintage: Droids,TV Show,1985,Action-Adventure,Disney+,2021-06-18,,,,,
-694,Dino Ranch,TV Show,2021,Animation,Disney+,2021-06-18,tt13858416,5.4,285,,
-695,Luca,Movie,2021,Animation,Disney+,2021-06-18,tt12801262,7.4,"194,295","$1,324,302",N/A
-696,Disney Just Roll With It,TV Show,2018,Comedy,Disney+,2021-06-18,,,,,
-697,"Heartland Docs, DVM",TV Show,2019,Animals & Nature,Disney+,2021-06-18,tt11783490,8.8,186,,
-698,Strange Magic,Movie,2015,Action-Adventure,Disney+,2021-06-11,tt4191054,5.7,"12,202","$12,429,583",N/A
-699,The Happiest Millionaire,Movie,1967,Biographical,Disney+,2021-06-11,tt0061749,6.5,"2,374",N/A,N/A
-700,The Pacifier,Movie,2005,Action-Adventure,Disney+,2021-06-11,tt0395699,5.6,"100,891","$113,086,868",N/A
-701,Zenimation,TV Show,2020,Animation,Disney+,2021-06-11,tt12372034,7.4,500,,
-702,Puppy Dog Pals,TV Show,2016,Animation,Disney+,2021-06-11,tt6688750,6.8,"1,256",,
-703,Loki,TV Show,2021,Action-Adventure,Disney+,2021-06-09,tt9140554,8.2,"410,225",,
-704,X-Men Origins: Wolverine,Movie,2009,Action-Adventure,Disney+,2021-06-04,tt0458525,6.5,"530,298","$179,883,157",N/A
-705,Ice Age: Dawn Of The Dinosaurs,Movie,2009,Animation,Disney+,2021-06-04,tt1080016,6.9,"264,077","$196,573,705",N/A
-706,Raya and the Last Dragon,Movie,2021,Action-Adventure,Disney+,2021-06-04,tt5109280,7.3,"171,115","$54,723,032",N/A
-707,Us Again,Movie,2021,Animation,Disney+,2021-06-04,tt14062858,7.8,"7,331",N/A,N/A
-708,Red Tails,Movie,2012,Action-Adventure,Disney+,2021-06-04,tt0485985,5.9,"37,078","$49,876,377",N/A
-709,MUPPET BABIES,TV Show,2017,Animation,Disney+,2021-06-04,tt0086764,7.5,"5,545",,
-710,Gordon Ramsay: Uncharted,TV Show,2018,Action-Adventure,Disney+,2021-06-04,tt9165706,7.7,"1,773",,
-711,The Last of the Chupacabras,Movie,2021,Fantasy,Disney+,2021-05-28,,,,,
-712,Wicked Tuna,TV Show,2016,Action-Adventure,Disney+,2021-05-28,tt2191567,6.5,"1,065",,
-713,The Little Prince(ss),Movie,2021,Drama,Disney+,2021-05-28,,,,,
-714,Growing Fangs,Movie,2021,Coming of Age,Disney+,2021-05-28,tt15090776,6.0,131,N/A,N/A
-715,Let's Be Tigers,Movie,2021,Drama,Disney+,2021-05-28,,,,,
-716,American Eid,Movie,2021,Drama,Disney+,2021-05-28,,,,,
-717,Dinner Is Served,Movie,2021,Coming of Age,Disney+,2021-05-28,tt2071447,7.1,10,N/A,N/A
-718,Kingdom of the Polar Bears,TV Show,2021,Animals & Nature,Disney+,2021-05-28,tt19304264,N/A,7,,
-719,Disney Sydney To The Max,TV Show,2018,Comedy,Disney+,2021-05-28,,,,,
-720,Bluey,TV Show,2019,Animation,Disney+,2021-05-28,tt7678620,9.4,"27,295",,
-721,Big City Greens,TV Show,2017,Action-Adventure,Disney+,2021-05-21,tt7165904,7.5,"3,218",,
-722,Fury Files,TV Show,2013,Animation,Disney+,2021-05-21,tt12433310,N/A,49,,
-723,Tinker Bell and the Legend of the NeverBeast,Movie,2014,Action-Adventure,Disney+,2021-05-21,tt3120408,7.2,"7,851",N/A,N/A
-724,Ice Road Rescue,TV Show,2015,Docuseries,Disney+,2021-05-21,tt5270356,7.8,367,,
-725,Schoolhouse Rock!,TV Show,1973,Animals & Nature,Disney+,2021-05-17,tt0069627,N/A,"4,284",,
-726,Disney Special Agent Oso: Three Healthy Steps (Shorts),TV Show,2011,Action-Adventure,Disney+,2021-05-14,,,,,
-727,Race to the Center of the Earth,TV Show,2021,Action-Adventure,Disney+,2021-05-14,tt10370752,6.5,228,,
-728,Special Agent Oso,TV Show,2009,Action-Adventure,Disney+,2021-05-14,tt1124354,5.2,770,,
-729,X-Men: The Last Stand,Movie,2006,Action-Adventure,Disney+,2021-05-14,tt0376994,6.6,"539,078","$234,362,462",N/A
-730,The Incredible Hulk,TV Show,1996,Action-Adventure,Disney+,2021-05-10,tt0800080,6.6,"523,510","$134,806,913",N/A
-731,Wild Hearts Can't Be Broken,Movie,1991,Biographical,Disney+,2021-05-07,tt0103262,7.2,"5,842","$7,294,835",N/A
-732,Wander Over Yonder,TV Show,2013,Comedy,Disney+,2021-05-07,tt2252938,7.3,"4,719",,
-733,Fantastic Four: Rise of the Silver Surfer,Movie,2007,Action-Adventure,Disney+,2021-05-07,tt0486576,5.6,"276,934","$131,921,738",N/A
-734,Star Wars Biomes,Movie,2021,Science Fiction,Disney+,2021-05-04,tt14578676,6.4,934,N/A,N/A
-735,The Bad Batch,TV Show,2021,Action-Adventure,Disney+,2021-05-04,tt4334266,5.2,"35,483","$180,851",N/A
-736,"Maggie Simpson in ""The Force Awakens from its Nap""",Movie,2021,Animation,Disney+,2021-05-04,,,,,
-737,Star Wars Vehicle Flythroughs,TV Show,2021,Anthology,Disney+,2021-05-04,tt14578626,6.2,468,,
-738,Spider-Man,TV Show,1994,Action-Adventure,Disney+,2021-05-03,tt0145487,7.4,"874,704","$407,022,860",N/A
-739,22 vs. Earth,Movie,2021,Animation,Disney+,2021-04-30,tt14499632,6.4,"5,321",N/A,N/A
-740,Adventures in Wonderland,TV Show,1996,Fantasy,Disney+,2021-04-30,tt0088473,7.9,826,,
-741,Disney My Music Story SUKIMASWITCH,Movie,2020,Biographical,Disney+,2021-04-30,,,,,
-742,DuckTales,TV Show,2017,Action-Adventure,Disney+,2021-04-30,tt0092345,8.1,"34,590",,
-743,Oklahoma!,Movie,1956,Musical,Disney+,2021-04-30,tt0048445,7.0,"13,918",N/A,N/A
-744,Baby's Day Out,Movie,1994,Action-Adventure,Disney+,2021-04-23,tt0109190,6.2,"55,387","$16,827,402",N/A
-745,Being the Queen,Movie,2020,Biographical,Disney+,2021-04-23,tt13237134,6.7,165,N/A,N/A
-746,Liv and Maddie,TV Show,2013,Comedy,Disney+,2021-04-23,tt2794380,6.4,"9,830",,
-747,Secrets of the Whales,TV Show,2021,Animals & Nature,Disney+,2021-04-22,tt12824750,8.4,915,,
-748,Earth Moods,TV Show,2021,Animals & Nature,Disney+,2021-04-16,tt14260676,7.9,242,,
-749,Rio,Movie,2011,Action-Adventure,Disney+,2021-04-16,tt1436562,6.9,"248,505","$143,619,809",N/A
-750,The Kid Who Would Be King,Movie,2019,Action-Adventure,Disney+,2021-04-16,tt6811018,6.1,"18,566","$16,790,790",N/A
-751,Treasure Buddies,Movie,2012,Action-Adventure,Disney+,2021-04-16,tt1791658,4.5,"1,678",N/A,N/A
-752,White Fang 2: Myth of the White Wolf,Movie,1994,Action-Adventure,Disney+,2021-04-16,tt0111701,5.4,"2,508","$8,878,839",N/A
-753,Big Shot,TV Show,2021,Comedy,Disney+,2021-04-16,tt11238096,7.5,"5,403",,
-754,Primal Survivor,TV Show,2014,Docuseries,Disney+,2021-04-16,tt5538644,7.9,556,,
-755,Squanto: A Warrior's Tale,Movie,1994,Action-Adventure,Disney+,2021-04-09,tt0111271,6.0,"1,413","$3,342,223",N/A
-756,Mark Twain and Me,Movie,1991,Biographical,Disney+,2021-04-09,tt0102404,6.8,192,N/A,N/A
-757,Man of the House,Movie,1995,Comedy,Disney+,2021-04-09,tt0331933,5.4,"25,203","$19,699,706",N/A
-758,Kick Buttowski: Suburban Daredevil,TV Show,2010,Action-Adventure,Disney+,2021-04-09,tt1600757,6.7,"6,123",,
-759,Future-Worm!,TV Show,2016,Family,Disney+,2021-04-09,tt4715134,5.3,287,,
-760,Cesar Millan: The Real Story,Movie,2012,Biographical,Disney+,2021-04-09,tt3249810,7.2,95,N/A,N/A
-761,Star Wars: Ewoks,TV Show,1985,Action-Adventure,Disney+,2021-04-02,,,,,
-762,Walk the Prank,TV Show,2016,Comedy,Disney+,2021-04-02,tt5486088,4.1,528,,
-763,Third Man on the Mountain,Movie,1959,Action-Adventure,Disney+,2021-04-02,tt0053352,7.0,"1,224",N/A,N/A
-764,The Last Ice,Movie,2020,Animals & Nature,Disney+,2021-04-02,tt12812506,7.3,152,N/A,N/A
-765,The Big Year,Movie,2011,Animals & Nature,Disney+,2021-04-02,tt1053810,6.2,"47,826","$7,204,138",N/A
-766,Island at the Top of the World,Movie,1974,Action-Adventure,Disney+,2021-04-02,tt0071671,6.2,"3,137",N/A,N/A
-767,Star Wars Vintage: Story of the Faithful Wookiee,Movie,2021,Animation,Disney+,2021-04-02,,,,,
-768,Star Wars Vintage: Clone Wars 2D Micro-Series,TV Show,2021,Series,Disney+,2021-04-02,,,,,
-769,Caravan of Courage: An Ewok Adventure,Movie,1984,Action-Adventure,Disney+,2021-04-02,tt13672136,N/A,8,N/A,N/A
-770,Ewoks: The Battle for Endor,Movie,1985,Action-Adventure,Disney+,2021-04-02,tt0089110,5.4,"10,744",N/A,N/A
-771,Higglytown Heroes,TV Show,2004,Animation,Disney+,2021-04-02,tt0406419,4.9,667,,
-772,Made in a Day,TV Show,2020,Reality,Disney+,2021-04-02,tt12833474,8.0,56,,
-773,Night at the Museum: Battle of the Smithsonian,Movie,2009,Action-Adventure,Disney+,2021-04-02,tt1078912,6.0,"212,754","$177,243,721",N/A
-774,Sharks Of The Bermuda Triangle,Movie,2020,Animals & Nature,Disney+,2021-04-02,tt13063526,6.1,55,N/A,N/A
-775,Secrets Of The Zoo,TV Show,2017,Animals & Nature,Disney+,2021-04-02,tt8879238,8.3,349,,
-776,Night at the Museum,Movie,2006,Action-Adventure,Disney+,2021-04-02,tt0477347,6.5,"375,625","$250,863,268",N/A
-777,The Mighty Ducks: Game Changers,TV Show,2021,Comedy,Disney+,2021-03-26,tt7939768,7.3,"5,796",,
-778,Gnomeo & Juliet,Movie,2011,Action-Adventure,Disney+,2021-03-26,tt0377981,5.9,"59,458","$99,967,670",N/A
-779,Pickle and Peanut,TV Show,2015,Comedy,Disney+,2021-03-26,tt3824018,4.4,"1,718",,
-780,Disney My Music Story: Perfume,Movie,2019,Biographical,Disney+,2021-03-19,,,,,
-781,Mexico Untamed,TV Show,2018,Animals & Nature,Disney+,2021-03-19,tt10389464,N/A,39,,
-782,The Falcon and The Winter Soldier,TV Show,2021,Action-Adventure,Disney+,2021-03-19,tt9208876,7.1,"250,472",,
-783,Disney Big Hero 6 The Series,TV Show,2017,Action-Adventure,Disney+,2021-03-19,,,,,
-784,Doc McStuffins: The Doc Is In,Movie,2020,Animation,Disney+,2021-03-12,tt13522660,N/A,10,N/A,N/A
-785,Marvel Studios ASSEMBLED,TV Show,2021,Anthology,Disney+,2021-03-12,tt14094206,7.9,"3,028",,
-786,Miss Peregrine's Home for Peculiar Children,Movie,2016,Coming of Age,Disney+,2021-03-12,tt1935859,6.7,"188,531","$87,242,834",N/A
-787,Own the Room,Movie,2021,Documentary,Disney+,2021-03-12,tt14017018,6.7,249,N/A,N/A
-788,Garfield: A Tail of Two Kitties,Movie,2006,Comedy,Disney+,2021-03-05,tt0455499,5.0,"46,854","$28,426,747",N/A
-789,Pair of Kings,TV Show,2010,Action-Adventure,Disney+,2021-02-26,tt1571313,5.8,"4,595",,
-790,Shanghai Disney Resort Grand Opening Gala,Movie,2016,Variety,Disney+,2021-02-26,,,,,
-791,Secrets of Sulphur Springs,TV Show,2021,Family,Disney+,2021-02-26,tt10329642,7.6,"4,081",,
-792,Mickey Go Local,TV Show,2019,Animation,Disney+,2021-02-26,tt13845582,5.7,90,,
-793,Okavango: River of Dreams,Movie,2020,Animals & Nature,Disney+,2021-02-26,tt10761742,8.1,139,,
-794,Myth: A Frozen Tale,Movie,2021,Animation,Disney+,2021-02-26,tt11278760,5.7,569,N/A,N/A
-795,Dog With a Blog,TV Show,2012,Comedy,Disney+,2021-02-26,tt2222135,5.0,"6,803",,
-796,Disney Roll It Back (Shorts),TV Show,2019,Comedy,Disney+,2021-02-26,,,,,
-797,Car SOS,TV Show,2012,Buddy,Disney+,2021-02-26,tt3110590,8.2,891,,
-798,American Dragon: Jake Long,TV Show,2004,Action-Adventure,Disney+,2021-02-26,tt0429305,6.6,"13,412",,
-799,Disney Channel Games 2008,TV Show,2008,Game Show / Competition,Disney+,2021-02-26,,,,,
-800,Cheaper By the Dozen,Movie,2003,Comedy,Disney+,2021-02-19,tt0349205,5.9,"108,404","$138,614,544",N/A
-801,Cheaper by the Dozen 2,Movie,2005,Comedy,Disney+,2021-02-19,tt0452598,5.5,"62,811","$82,571,173",N/A
-802,Flora & Ulysses,Movie,2021,Comedy,Disney+,2021-02-19,tt8521736,6.2,"6,616",N/A,N/A
-803,The Book of Life,Movie,2014,Action-Adventure,Disney+,2021-02-19,tt2262227,7.2,"77,658","$50,151,543",N/A
-804,The Muppet Show,TV Show,1976,Comedy,Disney+,2021-02-19,tt0074028,8.4,"26,184",,
-805,Marvel Battleworld: Mystery of the Thanostones,TV Show,2020,Action-Adventure,Disney+,2021-02-12,tt12583300,5.9,116,,
-806,Marvel's Behind the Mask,Movie,2021,Anthology,Disney+,2021-02-12,tt13885628,6.5,532,N/A,N/A
-807,Rodgers & Hammerstein's Cinderella,Movie,1997,Comedy,Disney+,2021-02-12,,,,,
-808,You Again,Movie,2010,Comedy,Disney+,2021-02-12,tt1414382,5.7,"54,383","$25,702,053",N/A
-809,Disney My Music Story: Yoshiki,Movie,2019,Biographical,Disney+,2021-02-05,,,,,
-810,Wicked Tuna: Outer Banks,TV Show,2013,Animals & Nature,Disney+,2021-02-05,tt26472829,N/A,22,,
-811,Expedition Everest,Movie,2020,Animals & Nature,Disney+,2021-02-05,tt13009970,6.5,195,N/A,N/A
-812,Upside-Down Magic,Movie,2020,Coming of Age,Disney+,2021-02-05,tt10833270,5.4,"2,037",N/A,N/A
-813,Dinosaurs,TV Show,1991,Comedy,Disney+,2021-01-29,tt0101081,7.5,"21,481",,
-814,Texas Storm Squad,Movie,2020,Documentary,Disney+,2021-01-29,,,,,
-815,Pixar Popcorn,TV Show,2021,Animation,Disney+,2021-01-22,tt13634444,6.5,"2,309",,
-816,Wild Uganda,Movie,2018,Animals & Nature,Disney+,2021-01-22,,,,,
-817,Isle of Dogs,Movie,2018,Action-Adventure,Disney+,2021-01-15,tt5104604,7.8,"190,716","$32,015,231",N/A
-818,Elena of Avalor,TV Show,2015,Action-Adventure,Disney+,2021-01-15,tt4549142,6.5,"1,862",,
-819,WandaVision,TV Show,2021,Drama,Disney+,2021-01-15,tt9140560,7.9,"370,064",,
-820,Mary Poppins Returns,Movie,2018,Family,Disney+,2021-01-15,tt5028340,6.7,"95,185","$171,958,438",N/A
-821,Disney Fam Jam,TV Show,2020,Family,Disney+,2021-01-08,tt11138524,5.0,29,,
-822,Ferdinand,Movie,2017,Action-Adventure,Disney+,2021-01-08,tt3411444,6.7,"63,584","$84,410,380",N/A
-823,Marvel Studios LEGENDS,TV Show,2021,Action-Adventure,Disney+,2021-01-08,tt13650480,6.5,"4,969",,
-824,Toy Story: That Time Forgot,Movie,2014,Action-Adventure,Disney+,2021-01-08,tt3473654,7.1,"13,115",N/A,N/A
-825,Mega Hammerhead,Movie,2016,Animals & Nature,Disney+,2021-01-01,tt5828074,6.5,104,N/A,N/A
-826,Great Shark Chow Down,Movie,2019,Animals & Nature,Disney+,2021-01-01,tt21618728,5.7,23,N/A,N/A
-827,Dr. Seuss' Horton Hears a Who!,Movie,2008,Animation,Disney+,2021-01-01,,,,,
-828,700 Sharks,Movie,2018,Animals & Nature,Disney+,2021-01-01,tt10564814,6.7,145,N/A,N/A
-829,Big Sharks Rule,Movie,2018,Animals & Nature,Disney+,2021-01-01,tt21300968,N/A,17,,
-830,Cosmos: Possible Worlds,TV Show,2020,Action-Adventure,Disney+,2020-12-25,tt11170862,9.0,"7,744",,
-831,Disney Gallery / Star Wars: The Mandalorian,TV Show,2020,Action-Adventure,Disney+,2020-12-25,,,,,
-832,Max Keeble's Big Move,Movie,2001,Comedy,Disney+,2020-12-25,tt0273799,5.4,"8,665","$17,294,293",N/A
-833,Soul,Movie,2020,Animation,Disney+,2020-12-25,tt2948372,8.0,"375,342","$946,154",N/A
-834,Burrow,Movie,2020,Animation,Disney+,2020-12-25,tt13167288,7.4,"5,598",N/A,N/A
-835,Wild Nordic,TV Show,2019,Animals & Nature,Disney+,2020-12-18,tt14072300,7.4,118,,
-836,Into the Woods,Movie,2014,Action-Adventure,Disney+,2020-12-18,tt2180411,5.9,"147,783","$128,002,372",N/A
-837,On Pointe,TV Show,2020,Docuseries,Disney+,2020-12-18,tt11097576,7.9,429,,
-838,"Miraculous World: New York, United Heroez",Movie,2020,Action-Adventure,Disney+,2020-12-18,,,,,
-839,Arendelle Castle Yule Log,Movie,2020,Animation,Disney+,2020-12-18,tt12053202,5.5,48,N/A,N/A
-840,Buried Truth of the Maya,Movie,2020,Documentary,Disney+,2020-12-18,tt12794742,5.5,260,N/A,N/A
-841,Disney Parks Sunrise Series,TV Show,2021,Animals & Nature,Disney+,2020-12-18,,,,,
-842,Dory's Reef Cam,Movie,2020,Animation,Disney+,2020-12-18,tt13496400,3.7,322,N/A,N/A
-843,Eddie the Eagle,Movie,2016,Biographical,Disney+,2020-12-18,tt1083452,7.3,"99,908","$15,789,389",N/A
-844,Disney Holiday Magic Quest,Movie,2020,Movies,Disney+,2020-12-11,tt13522634,6.2,48,N/A,N/A
-845,Gender Revolution: A Journey With Katie Couric,Movie,2017,Documentary,Disney+,2020-12-11,,,,,
-846,High School Musical: The Musical: The Holiday Special,Movie,2020,Drama,Disney+,2020-12-11,tt13290168,5.6,468,N/A,N/A
-847,Ralph Breaks the Internet,Movie,2018,Action-Adventure,Disney+,2020-12-11,tt5848272,7.0,"181,109","$201,091,711",N/A
-848,Disney Channel's Epic Holiday Showdown,Movie,2020,Fantasy,Disney+,2020-12-11,,,,,
-849,Safety,Movie,2020,Biographical,Disney+,2020-12-11,tt10649016,6.8,"4,633",N/A,N/A
-850,Anastasia,Movie,1997,Animation,Disney+,2020-12-04,tt0118617,7.1,"135,963","$58,406,347",N/A
-851,Godmothered,Movie,2020,Comedy,Disney+,2020-12-04,tt11681250,6.1,"13,960",N/A,N/A
-852,The Nutcracker and the Four Realms,Movie,2018,Action-Adventure,Disney+,2020-12-04,tt5523010,5.6,"37,434","$54,858,851",N/A
-853,The Disney Holiday Singalong,Movie,2020,Family,Disney+,2020-12-04,tt13392122,5.9,200,N/A,N/A
-854,Sky High,Movie,2005,Action-Adventure,Disney+,2020-12-04,tt0405325,6.3,"94,123","$63,946,815",N/A
-855,Mulan,Movie,2020,Action-Adventure,Disney+,2020-12-04,tt0120762,7.7,"316,471","$120,620,254",N/A
-856,Man vs. Shark,Movie,2019,Animals & Nature,Disney+,2020-12-04,tt10644346,6.2,80,N/A,N/A
-857,Black Beauty,Movie,2020,Animals & Nature,Disney+,2020-11-27,tt0109279,6.6,"10,648","$4,630,377",N/A
-858,Once Upon a Time in Wonderland,TV Show,2013,Action-Adventure,Disney+,2020-11-27,tt2802008,6.9,"12,954",,
-859,Party Animals,TV Show,2016,Animals & Nature,Disney+,2020-11-27,tt0847147,7.6,547,,
-860,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Movie,2014,Comedy,Disney+,2020-11-27,tt1698641,6.2,"46,497","$66,954,149",N/A
-861,From Our Family to Yours,Movie,2020,Animation,Disney+,2020-11-27,tt13681410,7.1,133,N/A,N/A
-862,Folklore: the long pond studio sessions,Movie,2020,Documentary,Disney+,2020-11-25,tt13524234,8.4,"4,907",N/A,N/A
-863,Planes,Movie,2013,Action-Adventure,Disney+,2020-11-20,tt1691917,5.7,"48,556","$90,288,712",N/A
-864,The Real Right Stuff,Movie,2020,Documentary,Disney+,2020-11-20,tt13237174,7.2,656,N/A,N/A
-865,Planes: Fire & Rescue,Movie,2014,Action-Adventure,Disney+,2020-11-20,tt2980706,5.9,"19,813","$59,165,787",N/A
-866,Marvel's 616,TV Show,2020,Anthology,Disney+,2020-11-20,,,,,
-867,Bia,TV Show,2019,Coming of Age,Disney+,2020-11-20,tt9168904,6.4,237,,
-868,The Wonderful World of Mickey Mouse,TV Show,2020,Action-Adventure,Disney+,2020-11-18,tt13089270,7.9,"1,422",,
-869,LEGO Star Wars Holiday Special,Movie,2020,Action-Adventure,Disney+,2020-11-17,tt12885438,6.4,"7,795",N/A,N/A
-870,Home Alone,Movie,1990,Comedy,Disney+,2020-11-13,tt0099785,7.7,"651,142","$285,761,243",N/A
-871,Home Alone 2: Lost in New York,Movie,1992,Comedy,Disney+,2020-11-13,tt0104431,6.9,"400,872","$173,585,516",N/A
-872,Home Alone 3,Movie,1997,Comedy,Disney+,2020-11-13,tt0119303,4.6,"126,942","$30,882,515",N/A
-873,Inside Pixar,TV Show,2020,Docuseries,Disney+,2020-11-13,tt13302848,7.3,758,,
-874,Petra: Secrets of the Ancient Builders,Movie,2019,Documentary,Disney+,2020-11-13,tt13555254,7.2,179,N/A,N/A
-875,Ultimate Viking Sword,Movie,2019,Documentary,Disney+,2020-11-13,,,,,
-876,Goldie & Bear,TV Show,2015,Action-Adventure,Disney+,2020-11-06,,,,,
-877,Mr. Magoo,Movie,1997,Action-Adventure,Disney+,2020-11-06,tt0119718,4.1,"16,121","$21,437,192",N/A
-878,Prep & Landing,Movie,2009,Animation,Disney+,2020-11-06,tt1474311,7.6,"3,999",N/A,N/A
-879,Prep & Landing: Naughty vs. Nice,Movie,2011,Animation,Disney+,2020-11-06,tt2069885,7.3,"2,261",N/A,N/A
-880,Fancy Nancy (Shorts),TV Show,2019,Animation,Disney+,2020-11-06,,,,,
-881,Disney's A Christmas Carol,Movie,2009,Animation,Disney+,2020-11-06,,,,,
-882,The Sorcerer's Apprentice,Movie,2010,Action-Adventure,Disney+,2020-10-30,tt0963966,6.1,"169,648","$63,150,991",N/A
-883,X-Ray Earth,TV Show,2020,Animals & Nature,Disney+,2020-10-30,tt12988062,6.6,74,,
-884,The Mandalorian,TV Show,2019,Action-Adventure,Disney+,2020-10-30,tt8111088,8.7,"586,478",,
-885,Disney Channel Halloween House Party,Movie,2020,Comedy,Disney+,2020-10-30,tt13845674,5.3,32,N/A,N/A
-886,Once Upon a Snowman,Movie,2020,Animation,Disney+,2020-10-23,tt13061790,6.9,"3,563",N/A,N/A
-887,Pompeii: Secrets Of The Dead,Movie,2019,Documentary,Disney+,2020-10-23,tt12045720,6.8,331,N/A,N/A
-888,Toy Story of Terror!,Movie,2013,Animation,Disney+,2020-10-23,tt2446040,7.5,"17,673",N/A,N/A
-889,India From Above,TV Show,2019,Docuseries,Disney+,2020-10-23,tt12873192,7.6,258,N/A,N/A
-890,Gathering Storm,TV Show,2020,Animals & Nature,Disney+,2020-10-23,tt12760500,7.5,89,,
-891,Marvel Super Hero Adventures,TV Show,2017,Action-Adventure,Disney+,2020-10-23,tt7726152,5.7,196,,
-892,Lost on Everest,Movie,2020,Animals & Nature,Disney+,2020-10-16,tt12660966,6.6,543,N/A,N/A
-893,Beverly Hills Chihuahua,Movie,2008,Action-Adventure,Disney+,2020-10-16,tt1014775,3.9,"25,743","$94,514,402",N/A
-894,Clouds,Movie,2020,Biographical,Disney+,2020-10-16,tt6473066,7.5,"11,542",N/A,N/A
-895,Marvel's Iron Man & Captain America: Heroes United,Movie,2014,Action-Adventure,Disney+,2020-10-16,,,,,
-896,Meet The Chimps,TV Show,2020,Animals & Nature,Disney+,2020-10-16,tt11853160,7.8,123,,
-897,The Rocketeer,TV Show,2019,Action-Adventure,Disney+,2020-10-16,tt0102803,6.6,"61,631","$46,704,056",N/A
-898,The Chronicles Of Narnia: The Voyage of the Dawn Treader,Movie,2010,Action-Adventure,Disney+,2020-10-09,tt0980970,6.3,"165,955","$104,386,950",N/A
-899,Oil Spill of The Century,Movie,2019,Documentary,Disney+,2020-10-09,,,,,
-900,Wild Portugal,Movie,2020,Animals & Nature,Disney+,2020-10-09,tt16043106,N/A,71,N/A,N/A
-901,X2,Movie,2003,Action-Adventure,Disney+,2020-10-09,tt0290334,7.4,"573,940","$214,949,694",N/A
-902,The Right Stuff,TV Show,2020,Drama,Disney+,2020-10-09,tt0086197,7.8,"65,303","$21,192,102",N/A
-903,Mr. Holland's Opus,Movie,1996,Drama,Disney+,2020-10-02,tt0113862,7.3,"41,626","$82,569,971",N/A
-904,Wild Central America,TV Show,2020,Action-Adventure,Disney+,2020-09-25,tt19767732,N/A,25,,
-905,The Giant Robber Crab,Movie,2019,Animals & Nature,Disney+,2020-09-25,tt13165620,7.0,70,N/A,N/A
-906,Secret Society of Second-Born Royals,Movie,2020,Action-Adventure,Disney+,2020-09-25,tt10324122,5.0,"6,360",N/A,N/A
-907,Magic of Disney's Animal Kingdom,TV Show,2020,Animals & Nature,Disney+,2020-09-25,tt10196378,8.2,470,,
-908,Hidden Figures,Movie,2016,Biographical,Disney+,2020-09-25,tt4846340,7.8,"255,100","$169,607,287",N/A
-909,Disneynature Oceans,Movie,2010,Animals & Nature,Disney+,2020-09-25,,,,,
-910,Bend It Like Beckham,Movie,2003,Buddy,Disney+,2020-09-18,tt0286499,6.7,"116,313","$32,543,449",N/A
-911,Soy Luna,TV Show,2015,Comedy,Disney+,2020-09-18,tt5189554,6.6,"1,765",,
-912,Violetta,TV Show,2011,Coming of Age,Disney+,2020-09-18,tt2171665,5.3,"2,791",,
-913,Morning Light,Movie,2008,Documentary,Disney+,2020-09-18,tt1198405,5.7,416,"$275,497",N/A
-914,Once Upon a Time,TV Show,2011,Action-Adventure,Disney+,2020-09-18,tt1843230,7.7,"236,106",,
-915,Coop & Cami Ask The World,TV Show,2018,Comedy,Disney+,2020-09-18,tt21799214,N/A,N/A,,
-916,Notre Dame: Race Against The Inferno,Movie,2019,Documentary,Disney+,2020-09-18,tt11559162,6.4,191,N/A,N/A
-917,Kingdom of the Mummies,TV Show,2020,Docuseries,Disney+,2020-09-18,tt12366196,7.1,170,,
-918,Ever After: A Cinderella Story,Movie,1998,Drama,Disney+,2020-09-18,tt0120631,7.1,"81,482","$65,705,771",N/A
-919,Europe from Above,TV Show,2019,Docuseries,Disney+,2020-09-18,tt11003514,8.1,670,,
-920,Ancient China from Above,TV Show,2020,Docuseries,Disney+,2020-09-18,tt12873166,6.9,157,,
-921,Becoming,TV Show,2020,Anthology,Disney+,2020-09-18,tt12221748,7.0,"6,680",N/A,N/A
-922,Christopher Robin,Movie,2018,Drama,Disney+,2020-09-11,tt4575576,7.2,"84,367","$99,215,042",N/A
-923,D2: The Mighty Ducks,Movie,1994,Comedy,Disney+,2020-09-04,tt0109520,6.1,"42,969","$45,610,410",N/A
-924,D3: The Mighty Ducks,Movie,1996,Comedy,Disney+,2020-09-04,tt0116000,5.5,"28,532","$22,955,097",N/A
-925,Earth to Ned,TV Show,2020,Comedy,Disney+,2020-09-04,tt11176048,6.6,424,,
-926,Trick or Treat,Movie,1952,Animation,Disney+,2020-09-04,tt0092112,5.8,"7,795","$6,797,218",N/A
-927,Alice Through the Looking Glass,Movie,2016,Action-Adventure,Disney+,2020-08-28,tt2567026,6.2,"122,141","$77,041,381",N/A
-928,Phineas and Ferb The Movie: Candace Against the Universe,Movie,2020,Action-Adventure,Disney+,2020-08-28,tt1817232,7.0,"5,414",N/A,N/A
-929,The One and Only Ivan,Movie,2020,Drama,Disney+,2020-08-21,tt3661394,6.6,"13,405",N/A,N/A
-930,"Weirdest, Bestest, Truest",TV Show,2018,Animals & Nature,Disney+,2020-08-21,,,,,
-931,Mars: One Day on the Red Planet,Movie,2020,Documentary,Disney+,2020-08-21,tt12611334,6.9,482,N/A,N/A
-932,Beauty and the Beast,Movie,2017,Family,Disney+,2020-08-21,tt0101414,8.0,"479,443","$218,967,620",N/A
-933,Back to the Titanic,Movie,2020,Documentary,Disney+,2020-08-21,tt12100782,6.2,448,N/A,N/A
-934,The Greatest Showman,Movie,2017,Biographical,Disney+,2020-08-14,tt1485796,7.5,"311,501","$174,340,174",N/A
-935,Wild Cats of India,TV Show,2020,Animals & Nature,Disney+,2020-08-14,tt11920706,7.5,78,,
-936,Weird But True!,TV Show,2017,Animals & Nature,Disney+,2020-08-14,tt6057106,7.4,116,,
-937,Scuba Sam's World,TV Show,2018,Animals & Nature,Disney+,2020-08-14,tt13399116,N/A,N/A,,
-938,Spaced Out,TV Show,2018,Docuseries,Disney+,2020-08-14,tt0079937,4.4,720,N/A,N/A
-939,Nature Boom Time,TV Show,2016,Animals & Nature,Disney+,2020-08-14,tt6805750,7.6,13,,
-940,Sam's Zookeeper Challenge,TV Show,2018,Animals & Nature,Disney+,2020-08-14,tt13325238,N/A,6,,
-941,Marvel Studios' Ant-Man and the Wasp,Movie,2018,Action-Adventure,Disney+,2020-08-14,,,,,
-942,Magic Camp,Movie,2020,Comedy,Disney+,2020-08-14,tt3979300,6.3,"4,803",N/A,N/A
-943,Jungle Animal Rescue,TV Show,2019,Animals & Nature,Disney+,2020-08-14,tt12690880,7.5,23,,
-944,India's Wild Leopards,Movie,2020,Animals & Nature,Disney+,2020-08-14,tt11902274,7.8,53,N/A,N/A
-945,Disney Zombies 2,Movie,2020,Coming of Age,Disney+,2020-08-14,,,,,
-946,Disney Junior T.O.T.S.: Calling All T.O.T.S. (Shorts),TV Show,2020,Animation,Disney+,2020-08-14,,,,,
-947,Howard,Movie,2020,Biographical,Disney+,2020-08-07,tt7682430,7.5,"1,433",N/A,N/A
-948,Prince of Persia: The Sands of Time,Movie,2010,Action-Adventure,Disney+,2020-08-07,tt0473075,6.6,"303,806","$90,759,676",N/A
-949,Star Wars: Galaxy's Edge-Adventure Awaits,Movie,2019,Documentary,Disney+,2020-08-07,tt10951528,5.8,205,N/A,N/A
-950,The Hidden Kingdoms of China,Movie,2020,Animals & Nature,Disney+,2020-08-07,tt13975730,6.9,57,N/A,N/A
-951,The Peanuts Movie,Movie,2015,Animation,Disney+,2020-08-07,tt2452042,7.0,"49,660","$130,178,411",N/A
-952,UFO Europe: The Untold Stories,TV Show,2012,Docuseries,Disney+,2020-08-07,tt14271936,N/A,45,,
-953,Surviving the Mount St. Helens Disaster,Movie,2020,Animals & Nature,Disney+,2020-07-31,tt12453440,7.3,172,N/A,N/A
-954,Marvel Funko Shorts,TV Show,2016,Action-Adventure,Disney+,2020-07-31,,,,,
-955,What Sam Sees,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt13326050,N/A,7,,
-956,Muppets Now,TV Show,2020,Comedy,Disney+,2020-07-31,tt10857210,5.9,"1,318",,
-957,Hunt for the Abominable Snowman,Movie,2011,Documentary,Disney+,2020-07-31,,,,,
-958,Lost Temple of the Inca,Movie,2020,Documentary,Disney+,2020-07-31,tt11668444,6.7,172,N/A,N/A
-959,King Fishers,TV Show,2013,Action-Adventure,Disney+,2020-07-31,tt3091520,7.0,33,,
-960,Cradle of the Gods,Movie,2012,Documentary,Disney+,2020-07-31,tt2214921,6.8,126,N/A,N/A
-961,Black Is King,Movie,2020,Dance,Disney+,2020-07-31,tt12607910,5.9,"9,401",N/A,N/A
-962,Fearless Adventures with Jack Randall,TV Show,2018,Animals & Nature,Disney+,2020-07-31,,,,,
-963,Big Cat Games,Movie,2015,Animals & Nature,Disney+,2020-07-31,,,,,
-964,Best Job Ever,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt11686730,N/A,N/A,N/A,N/A
-965,Animal Showdown,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt21798874,N/A,8,,
-966,Destination World,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt14630178,N/A,6,,
-967,Incredibles 2,Movie,2018,Action-Adventure,Disney+,2020-07-31,tt3606756,7.5,"329,595","$608,581,744",N/A
-968,Pirates of the Caribbean: Dead Men Tell No Tales,Movie,2017,Action-Adventure,Disney+,2020-07-24,tt1790809,6.5,"343,186","$172,558,876",N/A
-969,PJ Masks (Shorts),TV Show,2017,Action-Adventure,Disney+,2020-07-24,,,,,
-970,Rogue Trip,TV Show,2020,Buddy,Disney+,2020-07-24,tt10225100,7.1,207,,
-971,Wild Congo,TV Show,2014,Animals & Nature,Disney+,2020-07-24,tt19767844,N/A,51,,
-972,Wild Sri Lanka,TV Show,2016,Animals & Nature,Disney+,2020-07-24,tt7871864,8.3,104,,
-973,Diary of a Wimpy Kid: The Long Haul,Movie,2017,Comedy,Disney+,2020-07-17,tt6003368,4.3,"10,791","$20,738,724",N/A
-974,Disney Junior Music Lullabies,TV Show,2018,Animation,Disney+,2020-07-17,,,,,
-975,Wild Chile,TV Show,2017,Animals & Nature,Disney+,2020-07-17,tt11652174,7.6,102,,
-976,X-Men: Apocalypse,Movie,2016,Action-Adventure,Disney+,2020-07-17,tt3385516,6.9,"460,882","$155,442,489",N/A
-977,A Pre-Opening Report from Disneyland,Movie,1955,Documentary,Disney+,2020-07-17,,,,,
-978,The Mouseketeers at Walt Disney World,Movie,1977,Coming of Age,Disney+,2020-07-17,tt0285749,8.4,34,N/A,N/A
-979,Super Robot Monkey Team Hyperforce Go!,TV Show,2004,Action-Adventure,Disney+,2020-07-17,tt0423746,6.4,"2,605",,
-980,Lost City of Machu Picchu,Movie,2019,Documentary,Disney+,2020-07-17,tt12768204,7.0,139,N/A,N/A
-981,Hamilton: History Has Its Eyes on You,Movie,2020,Historical,Disney+,2020-07-10,tt12690910,6.4,81,N/A,N/A
-982,X-Men: Days of Future Past,Movie,2014,Action-Adventure,Disney+,2020-07-10,tt1877832,7.9,"744,527","$233,921,534",N/A
-983,Cosmos: A Spacetime Odyssey,TV Show,2013,Action-Adventure,Disney+,2020-07-10,tt2395695,9.3,"127,763",,
-984,Solo: A Star Wars Story,Movie,2018,Action-Adventure,Disney+,2020-07-10,tt3778644,6.9,"378,738","$213,767,512",N/A
-985,The Undefeated Presents: Hamilton In-Depth,Movie,2020,Historical,Disney+,2020-07-05,tt12690904,7.0,59,N/A,N/A
-986,Ice Age: Collision Course,Movie,2016,Action-Adventure,Disney+,2020-07-03,tt3416828,5.7,"74,878","$64,063,008",N/A
-987,The Mighty Ducks,Movie,1992,Comedy,Disney+,2020-07-03,tt0104868,6.6,"71,621","$50,752,337",N/A
-988,The Big Green,Movie,1995,Comedy,Disney+,2020-07-03,tt0112499,5.5,"10,864","$17,736,619",N/A
-989,Race to Witch Mountain,Movie,2009,Action-Adventure,Disney+,2020-07-03,tt1075417,5.7,"62,992","$67,172,594",N/A
-990,Hamilton,Movie,2020,Biographical,Disney+,2020-07-03,tt8503618,8.3,"113,741",N/A,N/A
-991,Diary of a Wimpy Kid: Rodrick Rules,Movie,2011,Comedy,Disney+,2020-07-03,tt1650043,6.6,"36,425","$52,698,535",N/A
-992,While You Were Sleeping,Movie,1995,Comedy,Disney+,2020-07-03,tt0114924,6.8,"113,302","$81,057,016",N/A
-993,Animal ER,TV Show,2016,Animals & Nature,Disney+,2020-07-03,tt6208226,7.9,94,,
-994,Into the Unknown: Making Frozen 2,TV Show,2020,Docuseries,Disney+,2020-06-26,tt10196382,8.5,913,,
-995,Disney A.N.T. Farm,TV Show,2011,Comedy,Disney+,2020-06-26,,,,,
-996,Marvel Studios' Avengers: Infinity War,Movie,2018,Action-Adventure,Disney+,2020-06-26,,,,,
-997,Tarzan II,Movie,2005,Action-Adventure,Disney+,2020-06-26,,,,,
-998,Tarzan,Movie,1999,Action-Adventure,Disney+,2020-06-26,tt0120855,7.3,"246,458","$171,091,819",N/A
-999,Man in Space,Movie,1955,Documentary,Disney+,2020-06-26,tt0863137,N/A,8,N/A,N/A
+500,The Mire,TV Show,2021,Crime TV Shows,Netflix,2021-07-07,tt8855592,7.0,"5,085",,
+501,Major Grom: Plague Doctor,Movie,2021,Action & Adventure,Netflix,2021-07-07,tt7601480,6.3,"13,573",N/A,N/A
+502,Mama Drama,Movie,2020,Dramas,Netflix,2021-07-07,tt2118293,5.6,33,,
+503,Dogs,TV Show,2021,Docuseries,Netflix,2021-07-07,tt5088794,7.0,"3,204",N/A,N/A
+504,Clash,Movie,2020,Dramas,Netflix,2021-07-07,tt5599692,7.4,"6,159","$18,215",N/A
+505,Cat People,TV Show,2021,Docuseries,Netflix,2021-07-07,tt0034587,7.2,"25,855",N/A,N/A
+506,Brick Mansions,Movie,2014,Action & Adventure,Netflix,2021-07-07,tt1430612,5.6,"44,012","$20,396,829",N/A
+507,Awon Boyz,Movie,2019,Documentaries,Netflix,2021-07-07,tt14800518,N/A,12,N/A,N/A
+508,Return of the Prodigal Son,Movie,1976,Dramas,Netflix,2021-07-06,tt0074168,7.1,947,N/A,N/A
+509,Terrace House: Opening New Doors,TV Show,2018,International TV Shows,Netflix,2021-07-06,tt7776244,7.8,"1,077",,
+510,Rise: Ini Kalilah,Movie,2018,Dramas,Netflix,2021-07-06,tt9866736,5.1,52,N/A,N/A
+511,Scream,TV Show,2019,Crime TV Shows,Netflix,2021-07-06,tt0117571,7.4,"386,589","$103,046,663",N/A
+512,Shtisel,TV Show,2021,International TV Shows,Netflix,2021-07-06,tt3069894,8.6,"8,092",,
+513,Si Doel the Movie 2,Movie,2019,Dramas,Netflix,2021-07-06,tt10290062,7.0,193,N/A,N/A
+514,Some Assembly Required,TV Show,2015,Kids' TV,Netflix,2021-07-06,tt3441810,4.5,"1,122",,
+515,Tales by Light,TV Show,2018,Docuseries,Netflix,2021-07-06,tt5350276,8.2,"2,036",,
+516,Puffin Rock,TV Show,2016,Kids' TV,Netflix,2021-07-06,tt3590338,8.6,"1,063",,
+517,The A List,TV Show,2021,British TV Shows,Netflix,2021-07-06,tt9185110,5.5,"3,462",,
+518,The New Legends of Monkey,TV Show,2020,Kids' TV,Netflix,2021-07-06,tt6807662,6.5,"4,988",,
+519,The Worst Witch,TV Show,2020,British TV Shows,Netflix,2021-07-06,tt0092239,6.8,"3,103",N/A,N/A
+520,Truckbhar Swapna,Movie,2018,Comedies,Netflix,2021-07-06,tt5774888,6.1,20,N/A,N/A
+521,Ujala,Movie,1959,Dramas,Netflix,2021-07-06,tt0157132,6.8,88,N/A,N/A
+522,Undercover,TV Show,2020,Crime TV Shows,Netflix,2021-07-06,tt1909015,8.9,"27,460",,
+523,Workin' Moms,TV Show,2021,International TV Shows,Netflix,2021-07-06,tt6143796,7.8,"23,050",,
+524,YooHoo to the Rescue,TV Show,2020,Kids' TV,Netflix,2021-07-06,tt9817288,6.7,65,,
+525,You Are My Spring,TV Show,2021,International TV Shows,Netflix,2021-07-06,tt14169816,7.3,910,,
+526,Rehmataan,Movie,2012,Dramas,Netflix,2021-07-06,tt7947124,N/A,N/A,N/A,N/A
+527,Richie Rich,TV Show,2015,Kids' TV,Netflix,2021-07-06,tt0110989,5.4,"73,299","$38,087,756",N/A
+528,Orange Is the New Black,TV Show,2019,TV Comedies,Netflix,2021-07-06,tt2372162,8.0,"319,266",,
+529,Girl from Nowhere,TV Show,2021,International TV Shows,Netflix,2021-07-06,tt8824648,7.6,"6,658",,
+530,My Little Pony: Friendship Is Magic,TV Show,2018,Kids' TV,Netflix,2021-07-06,tt1751105,7.7,"22,795",,
+531,A Land Imagined,Movie,2019,Dramas,Netflix,2021-07-06,tt8726116,6.2,"1,487",N/A,N/A
+532,Ask the StoryBots,TV Show,2019,Kids' TV,Netflix,2021-07-06,tt5846856,8.5,"1,023",,
+533,Between,TV Show,2016,International TV Shows,Netflix,2021-07-06,tt4132692,5.9,"9,914",,
+534,Chelsea,TV Show,2017,Stand-Up Comedy & Talk Shows,Netflix,2021-07-06,tt5672036,6.4,"2,155",,
+535,Code Lyoko,TV Show,2007,Kids' TV,Netflix,2021-07-06,tt0417311,7.3,"5,711",,
+536,Colony,TV Show,2018,TV Action & Adventure,Netflix,2021-07-06,tt4209256,7.3,"39,188",,
+537,Derry Girls,TV Show,2019,British TV Shows,Netflix,2021-07-06,tt7120662,8.5,"57,042",,
+538,Cuckoo,TV Show,2019,British TV Shows,Netflix,2021-07-06,tt2222352,7.2,"10,643",,
+539,Good Morning Call,TV Show,2017,International TV Shows,Netflix,2021-07-06,tt5520732,7.5,"3,553",,
+540,Har Kisse Ke Hisse: Kaamyaab,Movie,2020,Dramas,Netflix,2021-07-06,tt7881550,7.8,"4,483",N/A,N/A
+541,I AM A KILLER,TV Show,2020,British TV Shows,Netflix,2021-07-06,tt8300324,7.3,"4,970",,
+542,I Think You Should Leave with Tim Robinson,TV Show,2021,TV Comedies,Netflix,2021-07-06,tt10050772,8.0,"21,048",,
+543,Kim's Convenience,TV Show,2021,International TV Shows,Netflix,2021-07-06,tt5912064,8.2,"23,886",,
+544,Larva,TV Show,2015,Kids' TV,Netflix,2021-07-06,tt0393421,4.3,"1,320",N/A,N/A
+545,Marcella,TV Show,2019,British TV Shows,Netflix,2021-07-06,tt5269594,7.4,"36,873",,
+546,Midnight Diner: Tokyo Stories,TV Show,2019,International TV Shows,Netflix,2021-07-06,tt6150576,8.4,"4,844",,
+547,We the People,TV Show,2021,Kids' TV,Netflix,2021-07-04,tt14770480,4.2,864,,
+548,Grey's Anatomy,TV Show,2020,Romantic TV Shows,Netflix,2021-07-03,tt0413573,7.6,"340,460",,
+549,RattleSnake - The Ahanna Story,Movie,2020,Dramas,Netflix,2021-07-02,tt13890834,5.0,135,N/A,N/A
+550,Winchester,Movie,2018,Horror Movies,Netflix,2021-07-02,tt1072748,5.4,"36,730","$25,091,816",N/A
+551,The 8th Night,Movie,2021,Horror Movies,Netflix,2021-07-02,tt14781176,5.3,"4,432",N/A,N/A
+552,Snowpiercer,Movie,2013,Action & Adventure,Netflix,2021-07-02,tt1706620,7.1,"389,022","$4,563,650",N/A
+553,Fear Street Part 1: 1994,Movie,2021,Horror Movies,Netflix,2021-07-02,,,,,
+554,Mortel,TV Show,2019,Crime TV Shows,Netflix,2021-07-02,tt8403570,6.5,"1,718",,
+555,Haseen Dillruba,Movie,2021,International Movies,Netflix,2021-07-02,tt11027830,6.9,"29,771",N/A,N/A
+556,Big Timber,TV Show,2020,International TV Shows,Netflix,2021-07-02,tt13322572,6.9,"1,008",,
+557,Holiday on Mars,Movie,2020,Comedies,Netflix,2021-07-02,,,,,
+558,Sword of Trust,Movie,2019,Comedies,Netflix,2021-07-01,tt8484012,6.3,"4,056","$322,421",N/A
+559,The Karate Kid,Movie,1984,Action & Adventure,Netflix,2021-07-01,tt0087538,7.3,"243,401","$91,077,276",N/A
+560,The Game,Movie,1997,Thrillers,Netflix,2021-07-01,tt0119174,7.7,"429,404","$48,323,648",N/A
+561,The Best of Enemies,Movie,2019,Dramas,Netflix,2021-07-01,tt4807408,7.3,"19,344","$10,205,616",N/A
+562,The American,Movie,2010,Dramas,Netflix,2021-07-01,tt1440728,6.3,"102,094","$35,606,376",N/A
+563,Talladega Nights: The Ballad of Ricky Bobby,Movie,2006,Action & Adventure,Netflix,2021-07-01,tt0415306,6.6,"198,807","$148,213,377",N/A
+564,Stuart Little,Movie,1999,Children & Family Movies,Netflix,2021-07-01,tt0164912,6.0,"148,506","$140,035,367",N/A
+565,Star Trek,Movie,2009,Action & Adventure,Netflix,2021-07-01,tt0796366,7.9,"619,624","$257,730,019",N/A
+566,Snow Day,Movie,2000,Children & Family Movies,Netflix,2021-07-01,tt0184907,5.2,"13,654","$60,020,107",N/A
+567,She's Out of My League,Movie,2010,Comedies,Netflix,2021-07-01,tt0815236,6.4,"143,958","$32,010,860",N/A
+568,Seven Pounds,Movie,2008,Dramas,Netflix,2021-07-01,tt0814314,7.6,"314,484","$69,951,824",N/A
+569,Sailor Moon Crystal,TV Show,2016,Anime Series,Netflix,2021-07-01,tt3124992,7.8,"2,445",,
+570,The Karate Kid Part III,Movie,1989,Children & Family Movies,Netflix,2021-07-01,tt0097647,5.3,"69,163","$38,956,288",N/A
+571,The Karate Kid Part II,Movie,1986,Action & Adventure,Netflix,2021-07-01,tt0091326,6.1,"98,779","$115,103,979",N/A
+572,Young Royals,TV Show,2021,International TV Shows,Netflix,2021-07-01,tt14664414,8.3,"41,908",,
+573,The Life of David Gale,Movie,2003,Dramas,Netflix,2021-07-01,tt0289992,7.5,"125,789","$19,955,598",N/A
+574,The Long Riders,Movie,1980,Action & Adventure,Netflix,2021-07-01,tt0081071,6.9,"12,782","$15,795,189",N/A
+575,The Queen,Movie,2006,Dramas,Netflix,2021-07-01,tt0436697,7.3,"115,781","$56,441,711",N/A
+576,The Strangers,Movie,2008,Horror Movies,Netflix,2021-07-01,tt0482606,6.1,"142,659","$52,597,610",N/A
+577,The Sum of All Fears,Movie,2002,Action & Adventure,Netflix,2021-07-01,tt0164184,6.4,"124,122","$118,907,036",N/A
+578,The Tourist,Movie,2010,Action & Adventure,Netflix,2021-07-01,tt1243957,6.0,"256,277","$67,631,157",N/A
+579,Underworld,Movie,2003,Action & Adventure,Netflix,2021-07-01,tt0320691,7.0,"285,080","$51,970,690",N/A
+580,Underworld: Awakening,Movie,2012,Action & Adventure,Netflix,2021-07-01,tt1496025,6.3,"160,988","$62,321,039",N/A
+581,Underworld: Rise of the Lycans,Movie,2009,Action & Adventure,Netflix,2021-07-01,tt0834001,6.5,"167,347","$45,802,315",N/A
+582,Voiceless,Movie,2020,Dramas,Netflix,2021-07-01,tt2603600,2.1,290,"$419,952",N/A
+583,What Dreams May Come,Movie,1998,Dramas,Netflix,2021-07-01,tt0120889,7.0,"114,035","$55,382,927",N/A
+584,Why Do Fools Fall in Love,Movie,1998,Dramas,Netflix,2021-07-01,tt0123324,6.4,"4,495","$12,461,773",N/A
+585,Working Title,Movie,2019,Dramas,Netflix,2021-07-01,tt0250823,9.4,87,N/A,N/A
+586,Rainbow Rangers,TV Show,2018,Kids' TV,Netflix,2021-07-01,tt7967882,4.2,232,,
+587,Red Joan,Movie,2019,Dramas,Netflix,2021-07-01,tt7615302,6.4,"14,381","$1,579,730",N/A
+588,Life as We Know It,Movie,2010,Comedies,Netflix,2021-07-01,tt1055292,6.5,"138,747","$53,374,681",N/A
+589,Quarantine Tales,TV Show,2020,International TV Shows,Netflix,2021-07-01,tt13555930,6.1,160,N/A,N/A
+590,Generation 56k,TV Show,2021,International TV Shows,Netflix,2021-07-01,tt13524842,7.3,"2,892",,
+591,6 Bullets,Movie,2012,Action & Adventure,Netflix,2021-07-01,tt1975249,6.0,"15,783",N/A,N/A
+592,Air Force One,Movie,1997,Action & Adventure,Netflix,2021-07-01,tt0118571,6.5,"209,377","$172,956,409",N/A
+593,Audible,Movie,2021,Documentaries,Netflix,2021-07-01,tt12771540,6.7,"2,628",N/A,N/A
+594,Austin Powers in Goldmember,Movie,2002,Action & Adventure,Netflix,2021-07-01,tt0295178,6.2,"222,339","$213,307,889",N/A
+595,Austin Powers: International Man of Mystery,Movie,1997,Comedies,Netflix,2021-07-01,tt0118655,7.0,"256,251","$53,911,748",N/A
+596,Austin Powers: The Spy Who Shagged Me,Movie,1999,Action & Adventure,Netflix,2021-07-01,tt0145660,6.6,"248,727","$206,040,086",N/A
+597,Boogie Nights,Movie,1997,Comedies,Netflix,2021-07-01,tt0118749,7.9,"281,018","$26,416,349",N/A
+598,Bureau of Magical Things,TV Show,2020,International TV Shows,Netflix,2021-07-01,tt7153034,6.8,"3,042",,
+599,Charlie's Angels,Movie,2000,Action & Adventure,Netflix,2021-07-01,tt0160127,5.6,"196,230","$125,305,545",N/A
+600,Duck the Halls: A Mickey Mouse Christmas Special,Movie,2016,Animation,Disney+,2021-11-26,tt24580526,N/A,106,N/A,N/A
+601,The Queen Family Singalong,Movie,2021,Musical,Disney+,2021-11-26,tt15716286,6.1,117,N/A,N/A
+602,Ernest Saves Christmas,Movie,1988,Comedy,Disney+,2021-11-26,tt0095107,5.7,"12,858","$28,202,109",N/A
+603,Ice Age: A Mammoth Christmas,Movie,2011,Animation,Disney+,2021-11-26,tt2100546,6.4,"11,247",N/A,N/A
+604,The Beatles: Get Back,TV Show,2021,Docuseries,Disney+,2021-11-25,tt9735318,9.0,"27,899",,
+605,Becoming Cousteau,Movie,2021,Biographical,Disney+,2021-11-24,tt10334438,7.1,"1,405","$231,687",N/A
+606,Port Protection Alaska,TV Show,2015,Docuseries,Disney+,2021-11-24,,,,,
+607,Secrets of the Zoo: Tampa,TV Show,2019,Animals & Nature,Disney+,2021-11-24,tt11708046,7.9,114,,
+608,Hawkeye,TV Show,2021,Action-Adventure,Disney+,2021-11-24,tt10160804,7.5,"213,652",,
+609,A Muppets Christmas: Letters To Santa,Movie,2008,Comedy,Disney+,2021-11-19,tt1292569,6.3,"2,501",N/A,N/A
+610,Adventure Thru the Walt Disney Archives,Movie,2020,Documentary,Disney+,2021-11-19,tt15222206,7.2,164,N/A,N/A
+611,Puppy for Hanukkah,Movie,2020,Comedy,Disney+,2021-11-19,tt13596276,N/A,N/A,N/A,N/A
+612,The Pixar Story,Movie,2007,Documentary,Disney+,2021-11-19,tt1059955,7.7,"6,996",N/A,N/A
+613,"Dr. Oakley, Yukon Vet",TV Show,2013,Action-Adventure,Disney+,2021-11-17,tt3593456,8.5,720,,
+614,The Little Matchgirl,Movie,2006,Animation,Disney+,2021-11-12,tt0816562,7.8,"5,173",N/A,N/A
+615,Paperman,Movie,2012,Animation,Disney+,2021-11-12,tt2388725,8.2,"35,152",N/A,N/A
+616,Pixar 2021 Disney+ Day Special,Movie,2021,Movies,Disney+,2021-11-12,tt16026492,N/A,116,N/A,N/A
+617,Tangled Ever After,Movie,2012,Animation,Disney+,2021-11-12,tt2112281,7.5,"18,933",N/A,N/A
+618,The Ballad of Nessie,Movie,2011,Animation,Disney+,2021-11-12,tt1827536,6.9,"2,264",N/A,N/A
+619,Tick Tock Tale,Movie,2010,Animation,Disney+,2021-11-12,tt1736313,7.3,"1,990",N/A,N/A
+620,The Making of Happier Than Ever: A Love Letter to Los Angeles,Movie,2021,Concert Film,Disney+,2021-11-12,tt16022750,N/A,121,N/A,N/A
+621,The Proud Family: Louder and Prouder,Movie,2021,Animation,Disney+,2021-11-12,tt11871764,3.1,"5,065",,
+622,The Simpsons in Plusaversary,Movie,2021,Animation,Disney+,2021-11-12,tt15829632,5.1,"1,641",N/A,N/A
+623,Obi-Wan Kenobi,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt8466564,7.1,"227,296",,
+624,Under the Helmet: The Legacy of Boba Fett,Movie,2021,Science Fiction,Disney+,2021-11-12,tt15715890,7.2,"1,674",N/A,N/A
+625,Willow,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt0096446,7.2,"129,152","$57,269,863",N/A
+626,Olaf Presents,TV Show,2021,Animation,Disney+,2021-11-12,tt15475608,7.3,"3,722",,
+627,Spin,Movie,2021,Coming of Age,Disney+,2021-11-12,tt0479164,7.8,"1,574",N/A,N/A
+628,Marvel Studios’ 2021 Disney+ Day Special,Movie,2021,Movies,Disney+,2021-11-12,tt16045628,5.9,162,N/A,N/A
+629,Enchanted,Movie,2007,Comedy,Disney+,2021-11-12,tt0461770,7.1,"216,554","$127,807,262",N/A
+630,Limitless with Chris Hemsworth,Movie,2021,Lifestyle,Disney+,2021-11-12,,,,,
+631,America the Beautiful,Movie,2021,Animals & Nature,Disney+,2021-11-12,tt1040007,6.8,478,"$76,173",N/A
+632,Baymax!,Movie,2021,Animation,Disney+,2021-11-12,tt13622958,7.2,"8,597",,
+633,Ciao Alberto,Movie,2021,Animation,Disney+,2021-11-12,tt15476620,6.9,"8,413",N/A,N/A
+634,Disney Fancy Nancy,TV Show,2018,Animation,Disney+,2021-11-12,,,,,
+635,Disney Intertwined,TV Show,2021,Comedy,Disney+,2021-11-12,tt27512578,N/A,29,N/A,N/A
+636,Shang-Chi and The Legend of The Ten Rings,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt9376612,7.4,"435,548","$224,543,292",N/A
+637,Feast,Movie,2014,Animation,Disney+,2021-11-12,tt0426459,6.2,"33,820","$56,131",N/A
+638,Get a Horse!,Movie,2013,Action-Adventure,Disney+,2021-11-12,tt2980764,7.5,"5,578",N/A,N/A
+639,Home Sweet Home Alone,Movie,2021,Comedy,Disney+,2021-11-12,tt11012066,3.6,"20,293",N/A,N/A
+640,Jungle Cruise,Movie,2021,Action-Adventure,Disney+,2021-11-12,tt0870154,6.6,"211,387","$116,987,516",N/A
+641,Frozen Fever,Movie,2015,Animation,Disney+,2021-11-12,tt4007502,6.8,"17,565",N/A,N/A
+642,Santa Buddies: The Legend of Santa Paws,Movie,2009,Comedy,Disney+,2021-11-05,,,,,
+643,X-Men: First Class,Movie,2011,Action-Adventure,Disney+,2021-11-05,tt1270798,7.7,"723,658","$146,408,305",N/A
+644,The Search for Santa Paws,Movie,2010,Drama,Disney+,2021-11-05,tt1544572,5.4,"2,437",N/A,N/A
+645,Snow Buddies,Movie,2008,Action-Adventure,Disney+,2021-11-05,tt1079448,5.2,"3,741",N/A,N/A
+646,Space Buddies,Movie,2009,Action-Adventure,Disney+,2021-11-05,tt1164647,4.3,"2,423",N/A,N/A
+647,Prep & Landing: Operation Secret Santa,Movie,2010,Animation,Disney+,2021-11-05,,,,,
+648,Jingle All the Way 2,Movie,2014,Comedy,Disney+,2021-11-05,tt3486392,3.9,"2,049",N/A,N/A
+649,Alvin and the Chipmunks: Chipwrecked,Movie,2011,Comedy,Disney+,2021-11-05,tt1615918,4.4,"39,406","$133,110,742",N/A
+650,Jingle All The Way,Movie,1996,Comedy,Disney+,2021-11-05,tt0116705,5.7,"115,889","$60,592,389",N/A
+651,Disney Amphibia,TV Show,2018,Animation,Disney+,2021-11-03,,,,,
+652,Photo Ark,TV Show,2017,Animals & Nature,Disney+,2021-11-03,tt7181320,8.2,71,,
+653,Storm Rising,TV Show,2021,Action-Adventure,Disney+,2021-11-03,tt15681488,7.4,115,,
+654,Bob Ballard: An Explorer's Life,Movie,2021,Biographical,Disney+,2021-10-29,tt15111904,N/A,46,N/A,N/A
+655,"McFarland, USA",Movie,2015,Drama,Disney+,2021-10-29,tt2097298,7.4,"42,009","$44,482,410",N/A
+656,Rookie of the Year,Movie,1993,Comedy,Disney+,2021-10-22,tt0107985,6.1,"30,850","$53,615,089",N/A
+657,Thumbelina,Movie,1994,Animation,Disney+,2021-10-22,tt0111419,6.2,"18,566","$11,373,501",N/A
+658,The Wild Life of Dr. Ole,TV Show,2021,Animals & Nature,Disney+,2021-10-20,tt14232200,7.8,36,,
+659,PJ Masks,TV Show,2015,Action-Adventure,Disney+,2021-10-20,tt4148744,5.3,"1,567",,
+660,Lost Cities with Albert Lin: The Great Flood,Movie,2021,Documentary,Disney+,2021-10-15,,,,,
+661,Megacity of the Maya Warriors,Movie,2021,Documentary,Disney+,2021-10-15,,,,,
+662,Apollo: Back To The Moon,TV Show,2019,Docuseries,Disney+,2021-10-13,tt8781928,6.6,96,N/A,N/A
+663,Secrets Of The Zoo: Down Under,TV Show,2020,Animals & Nature,Disney+,2021-10-13,tt15313408,N/A,48,,
+664,Secrets of the Zoo: North Carolina,TV Show,2020,Reality,Disney+,2021-10-13,tt13528684,7.8,71,,
+665,The Wizard of Paws,TV Show,2021,Animals & Nature,Disney+,2021-10-13,tt13897634,9.3,77,,
+666,Zombies: Addison's Moonstone Mystery,TV Show,2020,Animation,Disney+,2021-10-13,tt15379964,N/A,N/A,N/A,N/A
+667,Just Beyond,TV Show,2021,Anthology,Disney+,2021-10-13,tt12286434,6.2,"2,040",,
+668,Just Roll With It: You Decide Live!,Movie,2019,Comedy,Disney+,2021-10-08,,,,,
+669,Mickey's Tale of Two Witches,Movie,2021,Animation,Disney+,2021-10-08,tt15470224,6.0,185,N/A,N/A
+670,Muppets Haunted Mansion,Movie,2021,Comedy,Disney+,2021-10-08,tt14602326,6.3,"8,103",N/A,N/A
+671,The Most Magical Story on Earth: 50 Years of Walt Disney World,Movie,2021,Family,Disney+,2021-10-08,tt15534640,N/A,173,N/A,N/A
+672,Under Wraps,Movie,2021,Action-Adventure,Disney+,2021-10-08,tt0128801,6.5,"3,357",N/A,N/A
+673,Fauci,Movie,2021,Biographical,Disney+,2021-10-06,tt13984924,6.5,"12,757",N/A,N/A
+674,The Ghost and Molly McGee,TV Show,2021,Animation,Disney+,2021-10-06,tt10684374,7.5,"1,796",,
+675,IMPACT with Gal Gadot,TV Show,2021,Docuseries,Disney+,2021-10-06,tt14376656,4.3,129,,
+676,Drain the Oceans,TV Show,2017,Docuseries,Disney+,2021-10-06,tt8676618,7.5,712,,
+677,Drain The Oceans: The Mississippi River & Arctic War,TV Show,2021,Docuseries,Disney+,2021-10-06,,,,,
+678,Among the Stars,TV Show,2021,Docuseries,Disney+,2021-10-06,tt15428794,7.8,296,,
+679,Black Widow,Movie,2021,Action-Adventure,Disney+,2021-10-06,tt3480822,6.7,"423,439","$183,651,655",N/A
+680,Alvin and the Chipmunks,Movie,2007,Animation,Disney+,2021-10-01,tt0952640,5.2,"94,302","$217,326,974",N/A
+681,Alvin and the Chipmunks: The Road Chip,Movie,2015,Comedy,Disney+,2021-10-01,tt2974918,4.9,"22,383","$85,886,987",N/A
+682,LEGO Star Wars Terrifying Tales,Movie,2021,Action-Adventure,Disney+,2021-10-01,tt15164924,6.1,"2,730",N/A,N/A
+683,Maleficent,Movie,2014,Action-Adventure,Disney+,2021-10-01,tt1587310,6.9,"400,091","$241,410,378",N/A
+684,The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular,Movie,2017,Animation,Disney+,2021-10-01,,,,,
+685,Rolie Polie Olie,TV Show,1998,Animation,Disney+,2021-09-29,tt0172049,6.3,"3,256",,
+686,The Simpsons,TV Show,1989,Animation,Disney+,2021-09-29,tt0096697,8.7,"435,879",,
+687,The Hatcher Family Dairy,TV Show,2021,Animals & Nature,Disney+,2021-09-29,tt15058696,8.8,90,,
+688,Star Wars Galaxy of Sounds,TV Show,2021,Animation,Disney+,2021-09-29,tt15516280,6.9,412,,
+689,Ready for Preschool,TV Show,2019,Kids,Disney+,2021-09-29,tt13689142,N/A,14,,
+690,Great Barrier Reef,TV Show,2020,Animals & Nature,Disney+,2021-09-29,tt2185885,8.3,781,,
+691,Disney Vampirina,TV Show,2017,Animation,Disney+,2021-09-29,,,,,
+692,Disney's Magic Bake-Off,TV Show,2021,Family,Disney+,2021-09-29,tt14539670,6.5,84,,
+693,A Spark Story,Movie,2021,Documentary,Disney+,2021-09-24,tt11963126,N/A,200,N/A,N/A
+694,Spooky Buddies,Movie,2011,Comedy,Disney+,2021-09-24,tt1792131,4.6,"1,719",N/A,N/A
+695,The Fault in Our Stars,Movie,2014,Coming of Age,Disney+,2021-09-24,tt2582846,7.7,"399,879","$124,872,350",N/A
+696,Dog: Impossible,TV Show,2019,Animals & Nature,Disney+,2021-09-22,tt10981266,7.6,163,,
+697,Spidey And His Amazing Friends,TV Show,2021,Action-Adventure,Disney+,2021-09-22,tt10862280,5.8,983,,
+698,Star Wars: Visions,TV Show,2021,Action-Adventure,Disney+,2021-09-22,tt13622982,7.0,"23,600",,
+699,Flooded Tombs of the Nile,Movie,2021,Documentary,Disney+,2021-09-17,tt15286970,6.4,128,N/A,N/A
+700,Smoky Mountain Park Rangers,Movie,2021,Animals & Nature,Disney+,2021-09-17,tt21987160,N/A,20,N/A,N/A
+701,Nona,Movie,2021,Animation,Disney+,2021-09-17,tt15088994,6.5,910,N/A,N/A
+702,Jade Eyed Leopard,Movie,2020,Animals & Nature,Disney+,2021-09-17,,,,,
+703,Disney's Broadway Hits at London's Royal Albert Hall,Movie,2016,Concert Film,Disney+,2021-09-17,,,,,
+704,Descendants: Royal Wedding,Movie,2021,Animation,Disney+,2021-09-17,,,,,
+705,Confessions of a Shopaholic,Movie,2009,Comedy,Disney+,2021-09-17,tt1093908,5.8,"82,799","$44,277,350",N/A
+706,Life Below Zero,TV Show,2012,Action-Adventure,Disney+,2021-09-15,tt2964642,7.9,"2,237",,
+707,Miraculous: Tales Of Ladybug & Cat Noir,TV Show,2015,Action-Adventure,Disney+,2021-09-15,tt2580046,7.5,"15,341",,
+708,Unknown Waters with Jeremy Wade,TV Show,2021,Animals & Nature,Disney+,2021-09-15,tt17890420,N/A,68,,
+709,Far Away From Raven’s Home,Movie,2021,Comedy,Disney+,2021-09-10,,,,,
+710,Pirates of the Caribbean: On Stranger Tides,Movie,2011,Action-Adventure,Disney+,2021-09-10,tt1298650,6.6,"560,613","$241,071,802",N/A
+711,Twenty Something,Movie,2021,Animation,Disney+,2021-09-10,tt14023676,7.1,"1,098",N/A,N/A
+712,"Doogie Kamealoha, M.D.",TV Show,2021,Comedy,Disney+,2021-09-08,tt12225230,7.0,"3,300",,
+713,"Mira, Royal Detective",TV Show,2020,Animation,Disney+,2021-09-08,tt9357248,7.4,359,,
+714,Pepper Ann,TV Show,1997,Animation,Disney+,2021-09-08,tt0128890,7.1,"4,004",,
+715,The Incredible Dr. Pol,TV Show,2011,Animals & Nature,Disney+,2021-09-08,tt2136396,8.6,"2,116",,
+716,X-Men: Dark Phoenix,Movie,2019,Action-Adventure,Disney+,2021-09-03,tt10440726,6.5,41,N/A,N/A
+717,Tomorrowland,Movie,2015,Action-Adventure,Disney+,2021-09-03,tt1964418,6.4,"190,813","$93,436,322",N/A
+718,Happier Than Ever: A Love Letter to Los Angeles,Movie,2021,Concert Film,Disney+,2021-09-03,tt15094392,7.3,"1,697",N/A,N/A
+719,Dug Days,TV Show,2021,Animation,Disney+,2021-09-01,tt13624054,8.0,"5,425",,
+720,Alaska Animal Rescue,TV Show,2019,Animals & Nature,Disney+,2021-09-01,tt12188528,8.5,70,,
+721,Dan in Real Life,Movie,2007,Comedy,Disney+,2021-08-27,tt0480242,6.8,"106,712","$47,642,963",N/A
+722,Disney Princess Remixed - An Ultimate Princess Celebration,Movie,2021,Family,Disney+,2021-08-27,tt14993556,4.9,84,N/A,N/A
+723,Marvel One-Shot: All Hail the King,Movie,2014,Comedy,Disney+,2021-08-27,tt3438640,7.4,"8,120",N/A,N/A
+724,Underdog,Movie,2007,Action-Adventure,Disney+,2021-08-27,tt0467110,4.8,"22,677","$43,760,605",N/A
+725,Cruella,Movie,2021,Crime,Disney+,2021-08-27,tt3228774,7.3,"264,118","$86,103,234",N/A
+726,Dr. K's Exotic Animal ER,TV Show,2014,Animals & Nature,Disney+,2021-08-25,tt3986852,8.2,427,,
+727,Gigantosaurus,TV Show,2018,Action-Adventure,Disney+,2021-08-25,tt9636800,6.7,234,,
+728,Life Below Zero: Next Generation,TV Show,2020,Action-Adventure,Disney+,2021-08-25,tt13049144,5.6,314,,
+729,Eragon,Movie,2006,Action-Adventure,Disney+,2021-08-20,tt0449010,5.1,"130,303","$75,030,163",N/A
+730,Growing Up Animal,TV Show,2021,Animals & Nature,Disney+,2021-08-18,tt13891272,8.0,156,,
+731,Aquamarine,Movie,2006,Comedy,Disney+,2021-08-13,tt0429591,5.4,"44,966","$18,597,342",N/A
+732,X-Men,Movie,2000,Action-Adventure,Disney+,2021-08-13,tt0120903,7.3,"646,262","$157,299,718",N/A
+733,Fantastic Four,Movie,2005,Action-Adventure,Disney+,2021-08-13,tt0120667,5.7,"343,749","$154,696,080",N/A
+734,America's Funniest Home Videos: Animal Edition,TV Show,2021,Reality,Disney+,2021-08-11,,,,,
+735,Disney Presents Goofy in How to Stay at Home,TV Show,2021,Animation,Disney+,2021-08-11,,,,,
+736,Gabby Duran And The Unsittables,TV Show,2018,Comedy,Disney+,2021-08-11,tt12416372,N/A,9,,
+737,What If...?,TV Show,2021,Action-Adventure,Disney+,2021-08-11,tt10168312,7.4,"142,298",,
+738,Chicken Squad,TV Show,2021,Animation,Disney+,2021-08-11,tt11204188,5.7,174,,
+739,Beverly Hills Chihuahua 2,Movie,2011,Action-Adventure,Disney+,2021-08-06,tt1482393,4.2,"3,568",N/A,N/A
+740,Beverly Hills Chihuahua 3: Viva La Fiesta!,Movie,2012,Comedy,Disney+,2021-08-06,tt2224075,4.4,"1,796",N/A,N/A
+741,Killer Shark vs Killer Whale,Movie,2021,Animals & Nature,Disney+,2021-08-06,tt14811958,6.4,42,N/A,N/A
+742,Mrs. Doubtfire,Movie,1993,Comedy,Disney+,2021-08-06,tt0107614,7.1,"290,021","$219,195,243",N/A
+743,Cesar Millan: Better Human Better Dog,TV Show,2021,Animals & Nature,Disney+,2021-08-04,tt15083978,8.3,287,,
+744,Walt Disney Animation Studios: Short Circuit Experimental Films,TV Show,2020,Animation,Disney+,2021-08-04,,,,,
+745,Built for Mars: The Perseverance Rover,Movie,2021,Documentary,Disney+,2021-07-30,tt13932270,N/A,97,N/A,N/A
+746,Garfield,Movie,2004,Comedy,Disney+,2021-07-30,tt6585312,8.5,144,N/A,N/A
+747,Critter Fixers: Country Vets,TV Show,2020,Animals & Nature,Disney+,2021-07-28,tt11929804,8.8,241,,
+748,Mickey Mouse Funhouse,TV Show,2021,Animation,Disney+,2021-07-28,tt13262134,5.5,335,,
+749,Minnie's Bow-Toons: Party Palace Pals,TV Show,2021,Animation,Disney+,2021-07-28,,,,,
+750,Turning the Tables with Robin Roberts,TV Show,2021,Talk Show,Disney+,2021-07-28,tt14598810,6.3,84,,
+751,Chip 'n' Dale: Park Life,TV Show,2021,Animation,Disney+,2021-07-28,tt10516496,6.0,507,,
+752,Disney Junior T.O.T.S.,TV Show,2018,Animation,Disney+,2021-07-28,,,,,
+753,Stuntman,Movie,2021,Documentary,Disney+,2021-07-23,tt6539830,6.6,419,N/A,N/A
+754,Walking with Dinosaurs: The Movie,Movie,2013,Action-Adventure,Disney+,2021-07-23,,,,,
+755,What the Shark?,Movie,2020,Animals & Nature,Disney+,2021-07-23,,,,,
+756,Shark vs. Whale,Movie,2020,Animals & Nature,Disney+,2021-07-23,tt12820178,N/A,68,N/A,N/A
+757,Shark vs. Surfer,Movie,2020,Animals & Nature,Disney+,2021-07-23,tt13161852,6.1,33,N/A,N/A
+758,Playing with Sharks,Movie,2021,Animals & Nature,Disney+,2021-07-23,tt11226258,7.5,622,N/A,N/A
+759,Ice Age: The Meltdown,Movie,2006,Animation,Disney+,2021-07-23,tt0438097,6.8,"296,507","$195,330,621",N/A
+760,Behind the Attraction,TV Show,2021,Docuseries,Disney+,2021-07-21,tt11069436,7.7,"1,190",,
+761,Disney The Owl House,TV Show,2020,Action-Adventure,Disney+,2021-07-21,,,,,
+762,Meet Spidey and His Amazing Friends (Shorts),TV Show,2021,Action-Adventure,Disney+,2021-07-21,,,,,
+763,Mission Force One,TV Show,2017,Action-Adventure,Disney+,2021-07-21,,,,,
+764,Turner & Hooch,TV Show,2021,Action-Adventure,Disney+,2021-07-21,tt0098536,6.2,"76,052","$71,079,915",N/A
+765,We Bought a Zoo,Movie,2011,Animals & Nature,Disney+,2021-07-16,tt1389137,7.0,"150,584","$75,624,550",N/A
+766,World's Most Dangerous Shark?,Movie,2021,Animals & Nature,Disney+,2021-07-16,tt14811630,6.1,40,,
+767,World's Biggest Bullshark,Movie,2021,Animals & Nature,Disney+,2021-07-16,,,,,
+768,Shark Attack Investigation: The Paige Winter Story,Movie,2021,Animals & Nature,Disney+,2021-07-16,tt14811754,N/A,52,,
+769,Sharkcano,Movie,2020,Animals & Nature,Disney+,2021-07-16,tt21300912,N/A,22,N/A,N/A
+770,Most Wanted Sharks,Movie,2020,Animals & Nature,Disney+,2021-07-16,tt27870540,N/A,9,N/A,N/A
+771,Secrets of the Bull Shark,Movie,2020,Animals & Nature,Disney+,2021-07-16,tt13130602,N/A,29,N/A,N/A
+772,Shark Attack Files,TV Show,2021,Animals & Nature,Disney+,2021-07-16,tt14811706,N/A,37,,
+773,So Random!,TV Show,2011,Comedy,Disney+,2021-07-14,tt1934818,4.5,"2,560",,
+774,"Miraculous World: Shanghai, The Legend of Ladydragon",Movie,2021,Animation,Disney+,2021-07-09,,,,,
+775,Orca vs. Great White,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt14811196,5.5,129,N/A,N/A
+776,Rogue Shark?,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt14791580,6.6,64,N/A,N/A
+777,Shark Beach with Chris Hemsworth,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt12833014,6.6,561,N/A,N/A
+778,Shark Gangs,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt14811278,6.5,47,N/A,N/A
+779,The Croc That Ate Jaws,Movie,2021,Animals & Nature,Disney+,2021-07-09,tt21397116,N/A,6,N/A,N/A
+780,When Sharks Attack,TV Show,2013,Reality,Disney+,2021-07-09,tt3097686,6.0,146,,
+781,Flicka,Movie,2006,Animals & Nature,Disney+,2021-07-09,tt0434215,6.0,"8,455","$21,000,147",N/A
+782,"The Good, The Bart, and The Loki",Movie,2021,Animation,Disney+,2021-07-07,tt14957270,6.1,"4,218",N/A,N/A
+783,Monsters at Work,TV Show,2021,Animation,Disney+,2021-07-07,tt8610082,7.0,"8,429",,
+784,Breaking Bobby Bones,TV Show,2021,Action-Adventure,Disney+,2021-07-07,tt14760138,N/A,62,,
+785,Mickey Mouse Mixed-Up Adventures,TV Show,2019,Animation,Disney+,2021-07-07,tt11130978,7.1,66,,
+786,Disney Raven's Home,TV Show,2016,Comedy,Disney+,2021-07-02,,,,,
+787,The Sandlot,Movie,1993,Comedy,Disney+,2021-07-02,tt0108037,7.8,"102,303","$32,950,136",N/A
+788,The Sandlot 2,Movie,2005,Comedy,Disney+,2021-07-02,tt0418131,4.5,"4,944",N/A,N/A
+789,Adventures in Babysitting,Movie,1987,Action-Adventure,Disney+,2021-06-25,tt0092513,6.9,"48,934","$34,368,475",N/A
+790,Running Wild with Bear Grylls,TV Show,2019,Action-Adventure,Disney+,2021-06-25,tt3816666,7.6,"2,998",,
+791,The Mysterious Benedict Society,TV Show,2021,Action-Adventure,Disney+,2021-06-25,tt11875316,7.6,"5,588",,
+792,Wolfgang,Movie,2021,Biographical,Disney+,2021-06-25,tt11146690,6.9,448,N/A,N/A
+793,Star Wars Vintage: Droids,TV Show,1985,Action-Adventure,Disney+,2021-06-18,,,,,
+794,Dino Ranch,TV Show,2021,Animation,Disney+,2021-06-18,tt13858416,5.4,285,,
+795,Luca,Movie,2021,Animation,Disney+,2021-06-18,tt12801262,7.4,"194,295","$1,324,302",N/A
+796,Disney Just Roll With It,TV Show,2018,Comedy,Disney+,2021-06-18,,,,,
+797,"Heartland Docs, DVM",TV Show,2019,Animals & Nature,Disney+,2021-06-18,tt11783490,8.8,186,,
+798,Strange Magic,Movie,2015,Action-Adventure,Disney+,2021-06-11,tt4191054,5.7,"12,202","$12,429,583",N/A
+799,The Happiest Millionaire,Movie,1967,Biographical,Disney+,2021-06-11,tt0061749,6.5,"2,374",N/A,N/A
+800,The Pacifier,Movie,2005,Action-Adventure,Disney+,2021-06-11,tt0395699,5.6,"100,891","$113,086,868",N/A
+801,Zenimation,TV Show,2020,Animation,Disney+,2021-06-11,tt12372034,7.4,500,,
+802,Puppy Dog Pals,TV Show,2016,Animation,Disney+,2021-06-11,tt6688750,6.8,"1,256",,
+803,Loki,TV Show,2021,Action-Adventure,Disney+,2021-06-09,tt9140554,8.2,"410,225",,
+804,X-Men Origins: Wolverine,Movie,2009,Action-Adventure,Disney+,2021-06-04,tt0458525,6.5,"530,298","$179,883,157",N/A
+805,Ice Age: Dawn Of The Dinosaurs,Movie,2009,Animation,Disney+,2021-06-04,tt1080016,6.9,"264,077","$196,573,705",N/A
+806,Raya and the Last Dragon,Movie,2021,Action-Adventure,Disney+,2021-06-04,tt5109280,7.3,"171,115","$54,723,032",N/A
+807,Us Again,Movie,2021,Animation,Disney+,2021-06-04,tt14062858,7.8,"7,331",N/A,N/A
+808,Red Tails,Movie,2012,Action-Adventure,Disney+,2021-06-04,tt0485985,5.9,"37,078","$49,876,377",N/A
+809,MUPPET BABIES,TV Show,2017,Animation,Disney+,2021-06-04,tt0086764,7.5,"5,545",,
+810,Gordon Ramsay: Uncharted,TV Show,2018,Action-Adventure,Disney+,2021-06-04,tt9165706,7.7,"1,773",,
+811,The Last of the Chupacabras,Movie,2021,Fantasy,Disney+,2021-05-28,,,,,
+812,Wicked Tuna,TV Show,2016,Action-Adventure,Disney+,2021-05-28,tt2191567,6.5,"1,065",,
+813,The Little Prince(ss),Movie,2021,Drama,Disney+,2021-05-28,,,,,
+814,Growing Fangs,Movie,2021,Coming of Age,Disney+,2021-05-28,tt15090776,6.0,131,N/A,N/A
+815,Let's Be Tigers,Movie,2021,Drama,Disney+,2021-05-28,,,,,
+816,American Eid,Movie,2021,Drama,Disney+,2021-05-28,,,,,
+817,Dinner Is Served,Movie,2021,Coming of Age,Disney+,2021-05-28,tt2071447,7.1,10,N/A,N/A
+818,Kingdom of the Polar Bears,TV Show,2021,Animals & Nature,Disney+,2021-05-28,tt19304264,N/A,7,,
+819,Disney Sydney To The Max,TV Show,2018,Comedy,Disney+,2021-05-28,,,,,
+820,Bluey,TV Show,2019,Animation,Disney+,2021-05-28,tt7678620,9.4,"27,295",,
+821,Big City Greens,TV Show,2017,Action-Adventure,Disney+,2021-05-21,tt7165904,7.5,"3,218",,
+822,Fury Files,TV Show,2013,Animation,Disney+,2021-05-21,tt12433310,N/A,49,,
+823,Tinker Bell and the Legend of the NeverBeast,Movie,2014,Action-Adventure,Disney+,2021-05-21,tt3120408,7.2,"7,851",N/A,N/A
+824,Ice Road Rescue,TV Show,2015,Docuseries,Disney+,2021-05-21,tt5270356,7.8,367,,
+825,Schoolhouse Rock!,TV Show,1973,Animals & Nature,Disney+,2021-05-17,tt0069627,N/A,"4,284",,
+826,Disney Special Agent Oso: Three Healthy Steps (Shorts),TV Show,2011,Action-Adventure,Disney+,2021-05-14,,,,,
+827,Race to the Center of the Earth,TV Show,2021,Action-Adventure,Disney+,2021-05-14,tt10370752,6.5,228,,
+828,Special Agent Oso,TV Show,2009,Action-Adventure,Disney+,2021-05-14,tt1124354,5.2,770,,
+829,X-Men: The Last Stand,Movie,2006,Action-Adventure,Disney+,2021-05-14,tt0376994,6.6,"539,078","$234,362,462",N/A
+830,The Incredible Hulk,TV Show,1996,Action-Adventure,Disney+,2021-05-10,tt0800080,6.6,"523,510","$134,806,913",N/A
+831,Wild Hearts Can't Be Broken,Movie,1991,Biographical,Disney+,2021-05-07,tt0103262,7.2,"5,842","$7,294,835",N/A
+832,Wander Over Yonder,TV Show,2013,Comedy,Disney+,2021-05-07,tt2252938,7.3,"4,719",,
+833,Fantastic Four: Rise of the Silver Surfer,Movie,2007,Action-Adventure,Disney+,2021-05-07,tt0486576,5.6,"276,934","$131,921,738",N/A
+834,Star Wars Biomes,Movie,2021,Science Fiction,Disney+,2021-05-04,tt14578676,6.4,934,N/A,N/A
+835,The Bad Batch,TV Show,2021,Action-Adventure,Disney+,2021-05-04,tt4334266,5.2,"35,483","$180,851",N/A
+836,"Maggie Simpson in ""The Force Awakens from its Nap""",Movie,2021,Animation,Disney+,2021-05-04,,,,,
+837,Star Wars Vehicle Flythroughs,TV Show,2021,Anthology,Disney+,2021-05-04,tt14578626,6.2,468,,
+838,Spider-Man,TV Show,1994,Action-Adventure,Disney+,2021-05-03,tt0145487,7.4,"874,704","$407,022,860",N/A
+839,22 vs. Earth,Movie,2021,Animation,Disney+,2021-04-30,tt14499632,6.4,"5,321",N/A,N/A
+840,Adventures in Wonderland,TV Show,1996,Fantasy,Disney+,2021-04-30,tt0088473,7.9,826,,
+841,Disney My Music Story SUKIMASWITCH,Movie,2020,Biographical,Disney+,2021-04-30,,,,,
+842,DuckTales,TV Show,2017,Action-Adventure,Disney+,2021-04-30,tt0092345,8.1,"34,590",,
+843,Oklahoma!,Movie,1956,Musical,Disney+,2021-04-30,tt0048445,7.0,"13,918",N/A,N/A
+844,Baby's Day Out,Movie,1994,Action-Adventure,Disney+,2021-04-23,tt0109190,6.2,"55,387","$16,827,402",N/A
+845,Being the Queen,Movie,2020,Biographical,Disney+,2021-04-23,tt13237134,6.7,165,N/A,N/A
+846,Liv and Maddie,TV Show,2013,Comedy,Disney+,2021-04-23,tt2794380,6.4,"9,830",,
+847,Secrets of the Whales,TV Show,2021,Animals & Nature,Disney+,2021-04-22,tt12824750,8.4,915,,
+848,Earth Moods,TV Show,2021,Animals & Nature,Disney+,2021-04-16,tt14260676,7.9,242,,
+849,Rio,Movie,2011,Action-Adventure,Disney+,2021-04-16,tt1436562,6.9,"248,505","$143,619,809",N/A
+850,The Kid Who Would Be King,Movie,2019,Action-Adventure,Disney+,2021-04-16,tt6811018,6.1,"18,566","$16,790,790",N/A
+851,Treasure Buddies,Movie,2012,Action-Adventure,Disney+,2021-04-16,tt1791658,4.5,"1,678",N/A,N/A
+852,White Fang 2: Myth of the White Wolf,Movie,1994,Action-Adventure,Disney+,2021-04-16,tt0111701,5.4,"2,508","$8,878,839",N/A
+853,Big Shot,TV Show,2021,Comedy,Disney+,2021-04-16,tt11238096,7.5,"5,403",,
+854,Primal Survivor,TV Show,2014,Docuseries,Disney+,2021-04-16,tt5538644,7.9,556,,
+855,Squanto: A Warrior's Tale,Movie,1994,Action-Adventure,Disney+,2021-04-09,tt0111271,6.0,"1,413","$3,342,223",N/A
+856,Mark Twain and Me,Movie,1991,Biographical,Disney+,2021-04-09,tt0102404,6.8,192,N/A,N/A
+857,Man of the House,Movie,1995,Comedy,Disney+,2021-04-09,tt0331933,5.4,"25,203","$19,699,706",N/A
+858,Kick Buttowski: Suburban Daredevil,TV Show,2010,Action-Adventure,Disney+,2021-04-09,tt1600757,6.7,"6,123",,
+859,Future-Worm!,TV Show,2016,Family,Disney+,2021-04-09,tt4715134,5.3,287,,
+860,Cesar Millan: The Real Story,Movie,2012,Biographical,Disney+,2021-04-09,tt3249810,7.2,95,N/A,N/A
+861,Star Wars: Ewoks,TV Show,1985,Action-Adventure,Disney+,2021-04-02,,,,,
+862,Walk the Prank,TV Show,2016,Comedy,Disney+,2021-04-02,tt5486088,4.1,528,,
+863,Third Man on the Mountain,Movie,1959,Action-Adventure,Disney+,2021-04-02,tt0053352,7.0,"1,224",N/A,N/A
+864,The Last Ice,Movie,2020,Animals & Nature,Disney+,2021-04-02,tt12812506,7.3,152,N/A,N/A
+865,The Big Year,Movie,2011,Animals & Nature,Disney+,2021-04-02,tt1053810,6.2,"47,826","$7,204,138",N/A
+866,Island at the Top of the World,Movie,1974,Action-Adventure,Disney+,2021-04-02,tt0071671,6.2,"3,137",N/A,N/A
+867,Star Wars Vintage: Story of the Faithful Wookiee,Movie,2021,Animation,Disney+,2021-04-02,,,,,
+868,Star Wars Vintage: Clone Wars 2D Micro-Series,TV Show,2021,Series,Disney+,2021-04-02,,,,,
+869,Caravan of Courage: An Ewok Adventure,Movie,1984,Action-Adventure,Disney+,2021-04-02,tt13672136,N/A,8,N/A,N/A
+870,Ewoks: The Battle for Endor,Movie,1985,Action-Adventure,Disney+,2021-04-02,tt0089110,5.4,"10,744",N/A,N/A
+871,Higglytown Heroes,TV Show,2004,Animation,Disney+,2021-04-02,tt0406419,4.9,667,,
+872,Made in a Day,TV Show,2020,Reality,Disney+,2021-04-02,tt12833474,8.0,56,,
+873,Night at the Museum: Battle of the Smithsonian,Movie,2009,Action-Adventure,Disney+,2021-04-02,tt1078912,6.0,"212,754","$177,243,721",N/A
+874,Sharks Of The Bermuda Triangle,Movie,2020,Animals & Nature,Disney+,2021-04-02,tt13063526,6.1,55,N/A,N/A
+875,Secrets Of The Zoo,TV Show,2017,Animals & Nature,Disney+,2021-04-02,tt8879238,8.3,349,,
+876,Night at the Museum,Movie,2006,Action-Adventure,Disney+,2021-04-02,tt0477347,6.5,"375,625","$250,863,268",N/A
+877,The Mighty Ducks: Game Changers,TV Show,2021,Comedy,Disney+,2021-03-26,tt7939768,7.3,"5,796",,
+878,Gnomeo & Juliet,Movie,2011,Action-Adventure,Disney+,2021-03-26,tt0377981,5.9,"59,458","$99,967,670",N/A
+879,Pickle and Peanut,TV Show,2015,Comedy,Disney+,2021-03-26,tt3824018,4.4,"1,718",,
+880,Disney My Music Story: Perfume,Movie,2019,Biographical,Disney+,2021-03-19,,,,,
+881,Mexico Untamed,TV Show,2018,Animals & Nature,Disney+,2021-03-19,tt10389464,N/A,39,,
+882,The Falcon and The Winter Soldier,TV Show,2021,Action-Adventure,Disney+,2021-03-19,tt9208876,7.1,"250,472",,
+883,Disney Big Hero 6 The Series,TV Show,2017,Action-Adventure,Disney+,2021-03-19,,,,,
+884,Doc McStuffins: The Doc Is In,Movie,2020,Animation,Disney+,2021-03-12,tt13522660,N/A,10,N/A,N/A
+885,Marvel Studios ASSEMBLED,TV Show,2021,Anthology,Disney+,2021-03-12,tt14094206,7.9,"3,028",,
+886,Miss Peregrine's Home for Peculiar Children,Movie,2016,Coming of Age,Disney+,2021-03-12,tt1935859,6.7,"188,531","$87,242,834",N/A
+887,Own the Room,Movie,2021,Documentary,Disney+,2021-03-12,tt14017018,6.7,249,N/A,N/A
+888,Garfield: A Tail of Two Kitties,Movie,2006,Comedy,Disney+,2021-03-05,tt0455499,5.0,"46,854","$28,426,747",N/A
+889,Pair of Kings,TV Show,2010,Action-Adventure,Disney+,2021-02-26,tt1571313,5.8,"4,595",,
+890,Shanghai Disney Resort Grand Opening Gala,Movie,2016,Variety,Disney+,2021-02-26,,,,,
+891,Secrets of Sulphur Springs,TV Show,2021,Family,Disney+,2021-02-26,tt10329642,7.6,"4,081",,
+892,Mickey Go Local,TV Show,2019,Animation,Disney+,2021-02-26,tt13845582,5.7,90,,
+893,Okavango: River of Dreams,Movie,2020,Animals & Nature,Disney+,2021-02-26,tt10761742,8.1,139,,
+894,Myth: A Frozen Tale,Movie,2021,Animation,Disney+,2021-02-26,tt11278760,5.7,569,N/A,N/A
+895,Dog With a Blog,TV Show,2012,Comedy,Disney+,2021-02-26,tt2222135,5.0,"6,803",,
+896,Disney Roll It Back (Shorts),TV Show,2019,Comedy,Disney+,2021-02-26,,,,,
+897,Car SOS,TV Show,2012,Buddy,Disney+,2021-02-26,tt3110590,8.2,891,,
+898,American Dragon: Jake Long,TV Show,2004,Action-Adventure,Disney+,2021-02-26,tt0429305,6.6,"13,412",,
+899,Disney Channel Games 2008,TV Show,2008,Game Show / Competition,Disney+,2021-02-26,,,,,
+900,Cheaper By the Dozen,Movie,2003,Comedy,Disney+,2021-02-19,tt0349205,5.9,"108,404","$138,614,544",N/A
+901,Cheaper by the Dozen 2,Movie,2005,Comedy,Disney+,2021-02-19,tt0452598,5.5,"62,811","$82,571,173",N/A
+902,Flora & Ulysses,Movie,2021,Comedy,Disney+,2021-02-19,tt8521736,6.2,"6,616",N/A,N/A
+903,The Book of Life,Movie,2014,Action-Adventure,Disney+,2021-02-19,tt2262227,7.2,"77,658","$50,151,543",N/A
+904,The Muppet Show,TV Show,1976,Comedy,Disney+,2021-02-19,tt0074028,8.4,"26,184",,
+905,Marvel Battleworld: Mystery of the Thanostones,TV Show,2020,Action-Adventure,Disney+,2021-02-12,tt12583300,5.9,116,,
+906,Marvel's Behind the Mask,Movie,2021,Anthology,Disney+,2021-02-12,tt13885628,6.5,532,N/A,N/A
+907,Rodgers & Hammerstein's Cinderella,Movie,1997,Comedy,Disney+,2021-02-12,,,,,
+908,You Again,Movie,2010,Comedy,Disney+,2021-02-12,tt1414382,5.7,"54,383","$25,702,053",N/A
+909,Disney My Music Story: Yoshiki,Movie,2019,Biographical,Disney+,2021-02-05,,,,,
+910,Wicked Tuna: Outer Banks,TV Show,2013,Animals & Nature,Disney+,2021-02-05,tt26472829,N/A,22,,
+911,Expedition Everest,Movie,2020,Animals & Nature,Disney+,2021-02-05,tt13009970,6.5,195,N/A,N/A
+912,Upside-Down Magic,Movie,2020,Coming of Age,Disney+,2021-02-05,tt10833270,5.4,"2,037",N/A,N/A
+913,Dinosaurs,TV Show,1991,Comedy,Disney+,2021-01-29,tt0101081,7.5,"21,481",,
+914,Texas Storm Squad,Movie,2020,Documentary,Disney+,2021-01-29,,,,,
+915,Pixar Popcorn,TV Show,2021,Animation,Disney+,2021-01-22,tt13634444,6.5,"2,309",,
+916,Wild Uganda,Movie,2018,Animals & Nature,Disney+,2021-01-22,,,,,
+917,Isle of Dogs,Movie,2018,Action-Adventure,Disney+,2021-01-15,tt5104604,7.8,"190,716","$32,015,231",N/A
+918,Elena of Avalor,TV Show,2015,Action-Adventure,Disney+,2021-01-15,tt4549142,6.5,"1,862",,
+919,WandaVision,TV Show,2021,Drama,Disney+,2021-01-15,tt9140560,7.9,"370,064",,
+920,Mary Poppins Returns,Movie,2018,Family,Disney+,2021-01-15,tt5028340,6.7,"95,185","$171,958,438",N/A
+921,Disney Fam Jam,TV Show,2020,Family,Disney+,2021-01-08,tt11138524,5.0,29,,
+922,Ferdinand,Movie,2017,Action-Adventure,Disney+,2021-01-08,tt3411444,6.7,"63,584","$84,410,380",N/A
+923,Marvel Studios LEGENDS,TV Show,2021,Action-Adventure,Disney+,2021-01-08,tt13650480,6.5,"4,969",,
+924,Toy Story: That Time Forgot,Movie,2014,Action-Adventure,Disney+,2021-01-08,tt3473654,7.1,"13,115",N/A,N/A
+925,Mega Hammerhead,Movie,2016,Animals & Nature,Disney+,2021-01-01,tt5828074,6.5,104,N/A,N/A
+926,Great Shark Chow Down,Movie,2019,Animals & Nature,Disney+,2021-01-01,tt21618728,5.7,23,N/A,N/A
+927,Dr. Seuss' Horton Hears a Who!,Movie,2008,Animation,Disney+,2021-01-01,,,,,
+928,700 Sharks,Movie,2018,Animals & Nature,Disney+,2021-01-01,tt10564814,6.7,145,N/A,N/A
+929,Big Sharks Rule,Movie,2018,Animals & Nature,Disney+,2021-01-01,tt21300968,N/A,17,,
+930,Cosmos: Possible Worlds,TV Show,2020,Action-Adventure,Disney+,2020-12-25,tt11170862,9.0,"7,744",,
+931,Disney Gallery / Star Wars: The Mandalorian,TV Show,2020,Action-Adventure,Disney+,2020-12-25,,,,,
+932,Max Keeble's Big Move,Movie,2001,Comedy,Disney+,2020-12-25,tt0273799,5.4,"8,665","$17,294,293",N/A
+933,Soul,Movie,2020,Animation,Disney+,2020-12-25,tt2948372,8.0,"375,342","$946,154",N/A
+934,Burrow,Movie,2020,Animation,Disney+,2020-12-25,tt13167288,7.4,"5,598",N/A,N/A
+935,Wild Nordic,TV Show,2019,Animals & Nature,Disney+,2020-12-18,tt14072300,7.4,118,,
+936,Into the Woods,Movie,2014,Action-Adventure,Disney+,2020-12-18,tt2180411,5.9,"147,783","$128,002,372",N/A
+937,On Pointe,TV Show,2020,Docuseries,Disney+,2020-12-18,tt11097576,7.9,429,,
+938,"Miraculous World: New York, United Heroez",Movie,2020,Action-Adventure,Disney+,2020-12-18,,,,,
+939,Arendelle Castle Yule Log,Movie,2020,Animation,Disney+,2020-12-18,tt12053202,5.5,48,N/A,N/A
+940,Buried Truth of the Maya,Movie,2020,Documentary,Disney+,2020-12-18,tt12794742,5.5,260,N/A,N/A
+941,Disney Parks Sunrise Series,TV Show,2021,Animals & Nature,Disney+,2020-12-18,,,,,
+942,Dory's Reef Cam,Movie,2020,Animation,Disney+,2020-12-18,tt13496400,3.7,322,N/A,N/A
+943,Eddie the Eagle,Movie,2016,Biographical,Disney+,2020-12-18,tt1083452,7.3,"99,908","$15,789,389",N/A
+944,Disney Holiday Magic Quest,Movie,2020,Movies,Disney+,2020-12-11,tt13522634,6.2,48,N/A,N/A
+945,Gender Revolution: A Journey With Katie Couric,Movie,2017,Documentary,Disney+,2020-12-11,,,,,
+946,High School Musical: The Musical: The Holiday Special,Movie,2020,Drama,Disney+,2020-12-11,tt13290168,5.6,468,N/A,N/A
+947,Ralph Breaks the Internet,Movie,2018,Action-Adventure,Disney+,2020-12-11,tt5848272,7.0,"181,109","$201,091,711",N/A
+948,Disney Channel's Epic Holiday Showdown,Movie,2020,Fantasy,Disney+,2020-12-11,,,,,
+949,Safety,Movie,2020,Biographical,Disney+,2020-12-11,tt10649016,6.8,"4,633",N/A,N/A
+950,Anastasia,Movie,1997,Animation,Disney+,2020-12-04,tt0118617,7.1,"135,963","$58,406,347",N/A
+951,Godmothered,Movie,2020,Comedy,Disney+,2020-12-04,tt11681250,6.1,"13,960",N/A,N/A
+952,The Nutcracker and the Four Realms,Movie,2018,Action-Adventure,Disney+,2020-12-04,tt5523010,5.6,"37,434","$54,858,851",N/A
+953,The Disney Holiday Singalong,Movie,2020,Family,Disney+,2020-12-04,tt13392122,5.9,200,N/A,N/A
+954,Sky High,Movie,2005,Action-Adventure,Disney+,2020-12-04,tt0405325,6.3,"94,123","$63,946,815",N/A
+955,Mulan,Movie,2020,Action-Adventure,Disney+,2020-12-04,tt0120762,7.7,"316,471","$120,620,254",N/A
+956,Man vs. Shark,Movie,2019,Animals & Nature,Disney+,2020-12-04,tt10644346,6.2,80,N/A,N/A
+957,Black Beauty,Movie,2020,Animals & Nature,Disney+,2020-11-27,tt0109279,6.6,"10,648","$4,630,377",N/A
+958,Once Upon a Time in Wonderland,TV Show,2013,Action-Adventure,Disney+,2020-11-27,tt2802008,6.9,"12,954",,
+959,Party Animals,TV Show,2016,Animals & Nature,Disney+,2020-11-27,tt0847147,7.6,547,,
+960,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Movie,2014,Comedy,Disney+,2020-11-27,tt1698641,6.2,"46,497","$66,954,149",N/A
+961,From Our Family to Yours,Movie,2020,Animation,Disney+,2020-11-27,tt13681410,7.1,133,N/A,N/A
+962,Folklore: the long pond studio sessions,Movie,2020,Documentary,Disney+,2020-11-25,tt13524234,8.4,"4,907",N/A,N/A
+963,Planes,Movie,2013,Action-Adventure,Disney+,2020-11-20,tt1691917,5.7,"48,556","$90,288,712",N/A
+964,The Real Right Stuff,Movie,2020,Documentary,Disney+,2020-11-20,tt13237174,7.2,656,N/A,N/A
+965,Planes: Fire & Rescue,Movie,2014,Action-Adventure,Disney+,2020-11-20,tt2980706,5.9,"19,813","$59,165,787",N/A
+966,Marvel's 616,TV Show,2020,Anthology,Disney+,2020-11-20,,,,,
+967,Bia,TV Show,2019,Coming of Age,Disney+,2020-11-20,tt9168904,6.4,237,,
+968,The Wonderful World of Mickey Mouse,TV Show,2020,Action-Adventure,Disney+,2020-11-18,tt13089270,7.9,"1,422",,
+969,LEGO Star Wars Holiday Special,Movie,2020,Action-Adventure,Disney+,2020-11-17,tt12885438,6.4,"7,795",N/A,N/A
+970,Home Alone,Movie,1990,Comedy,Disney+,2020-11-13,tt0099785,7.7,"651,142","$285,761,243",N/A
+971,Home Alone 2: Lost in New York,Movie,1992,Comedy,Disney+,2020-11-13,tt0104431,6.9,"400,872","$173,585,516",N/A
+972,Home Alone 3,Movie,1997,Comedy,Disney+,2020-11-13,tt0119303,4.6,"126,942","$30,882,515",N/A
+973,Inside Pixar,TV Show,2020,Docuseries,Disney+,2020-11-13,tt13302848,7.3,758,,
+974,Petra: Secrets of the Ancient Builders,Movie,2019,Documentary,Disney+,2020-11-13,tt13555254,7.2,179,N/A,N/A
+975,Ultimate Viking Sword,Movie,2019,Documentary,Disney+,2020-11-13,,,,,
+976,Goldie & Bear,TV Show,2015,Action-Adventure,Disney+,2020-11-06,,,,,
+977,Mr. Magoo,Movie,1997,Action-Adventure,Disney+,2020-11-06,tt0119718,4.1,"16,121","$21,437,192",N/A
+978,Prep & Landing,Movie,2009,Animation,Disney+,2020-11-06,tt1474311,7.6,"3,999",N/A,N/A
+979,Prep & Landing: Naughty vs. Nice,Movie,2011,Animation,Disney+,2020-11-06,tt2069885,7.3,"2,261",N/A,N/A
+980,Fancy Nancy (Shorts),TV Show,2019,Animation,Disney+,2020-11-06,,,,,
+981,Disney's A Christmas Carol,Movie,2009,Animation,Disney+,2020-11-06,,,,,
+982,The Sorcerer's Apprentice,Movie,2010,Action-Adventure,Disney+,2020-10-30,tt0963966,6.1,"169,648","$63,150,991",N/A
+983,X-Ray Earth,TV Show,2020,Animals & Nature,Disney+,2020-10-30,tt12988062,6.6,74,,
+984,The Mandalorian,TV Show,2019,Action-Adventure,Disney+,2020-10-30,tt8111088,8.7,"586,478",,
+985,Disney Channel Halloween House Party,Movie,2020,Comedy,Disney+,2020-10-30,tt13845674,5.3,32,N/A,N/A
+986,Once Upon a Snowman,Movie,2020,Animation,Disney+,2020-10-23,tt13061790,6.9,"3,563",N/A,N/A
+987,Pompeii: Secrets Of The Dead,Movie,2019,Documentary,Disney+,2020-10-23,tt12045720,6.8,331,N/A,N/A
+988,Toy Story of Terror!,Movie,2013,Animation,Disney+,2020-10-23,tt2446040,7.5,"17,673",N/A,N/A
+989,India From Above,TV Show,2019,Docuseries,Disney+,2020-10-23,tt12873192,7.6,258,N/A,N/A
+990,Gathering Storm,TV Show,2020,Animals & Nature,Disney+,2020-10-23,tt12760500,7.5,89,,
+991,Marvel Super Hero Adventures,TV Show,2017,Action-Adventure,Disney+,2020-10-23,tt7726152,5.7,196,,
+992,Lost on Everest,Movie,2020,Animals & Nature,Disney+,2020-10-16,tt12660966,6.6,543,N/A,N/A
+993,Beverly Hills Chihuahua,Movie,2008,Action-Adventure,Disney+,2020-10-16,tt1014775,3.9,"25,743","$94,514,402",N/A
+994,Clouds,Movie,2020,Biographical,Disney+,2020-10-16,tt6473066,7.5,"11,542",N/A,N/A
+995,Marvel's Iron Man & Captain America: Heroes United,Movie,2014,Action-Adventure,Disney+,2020-10-16,,,,,
+996,Meet The Chimps,TV Show,2020,Animals & Nature,Disney+,2020-10-16,tt11853160,7.8,123,,
+997,The Rocketeer,TV Show,2019,Action-Adventure,Disney+,2020-10-16,tt0102803,6.6,"61,631","$46,704,056",N/A
+998,The Chronicles Of Narnia: The Voyage of the Dawn Treader,Movie,2010,Action-Adventure,Disney+,2020-10-09,tt0980970,6.3,"165,955","$104,386,950",N/A
+999,Oil Spill of The Century,Movie,2019,Documentary,Disney+,2020-10-09,,,,,
+1000,Wild Portugal,Movie,2020,Animals & Nature,Disney+,2020-10-09,tt16043106,N/A,71,N/A,N/A
+1001,X2,Movie,2003,Action-Adventure,Disney+,2020-10-09,tt0290334,7.4,"573,940","$214,949,694",N/A
+1002,The Right Stuff,TV Show,2020,Drama,Disney+,2020-10-09,tt0086197,7.8,"65,303","$21,192,102",N/A
+1003,Mr. Holland's Opus,Movie,1996,Drama,Disney+,2020-10-02,tt0113862,7.3,"41,626","$82,569,971",N/A
+1004,Wild Central America,TV Show,2020,Action-Adventure,Disney+,2020-09-25,tt19767732,N/A,25,,
+1005,The Giant Robber Crab,Movie,2019,Animals & Nature,Disney+,2020-09-25,tt13165620,7.0,70,N/A,N/A
+1006,Secret Society of Second-Born Royals,Movie,2020,Action-Adventure,Disney+,2020-09-25,tt10324122,5.0,"6,360",N/A,N/A
+1007,Magic of Disney's Animal Kingdom,TV Show,2020,Animals & Nature,Disney+,2020-09-25,tt10196378,8.2,470,,
+1008,Hidden Figures,Movie,2016,Biographical,Disney+,2020-09-25,tt4846340,7.8,"255,100","$169,607,287",N/A
+1009,Disneynature Oceans,Movie,2010,Animals & Nature,Disney+,2020-09-25,,,,,
+1010,Bend It Like Beckham,Movie,2003,Buddy,Disney+,2020-09-18,tt0286499,6.7,"116,313","$32,543,449",N/A
+1011,Soy Luna,TV Show,2015,Comedy,Disney+,2020-09-18,tt5189554,6.6,"1,765",,
+1012,Violetta,TV Show,2011,Coming of Age,Disney+,2020-09-18,tt2171665,5.3,"2,791",,
+1013,Morning Light,Movie,2008,Documentary,Disney+,2020-09-18,tt1198405,5.7,416,"$275,497",N/A
+1014,Once Upon a Time,TV Show,2011,Action-Adventure,Disney+,2020-09-18,tt1843230,7.7,"236,106",,
+1015,Coop & Cami Ask The World,TV Show,2018,Comedy,Disney+,2020-09-18,tt21799214,N/A,N/A,,
+1016,Notre Dame: Race Against The Inferno,Movie,2019,Documentary,Disney+,2020-09-18,tt11559162,6.4,191,N/A,N/A
+1017,Kingdom of the Mummies,TV Show,2020,Docuseries,Disney+,2020-09-18,tt12366196,7.1,170,,
+1018,Ever After: A Cinderella Story,Movie,1998,Drama,Disney+,2020-09-18,tt0120631,7.1,"81,482","$65,705,771",N/A
+1019,Europe from Above,TV Show,2019,Docuseries,Disney+,2020-09-18,tt11003514,8.1,670,,
+1020,Ancient China from Above,TV Show,2020,Docuseries,Disney+,2020-09-18,tt12873166,6.9,157,,
+1021,Becoming,TV Show,2020,Anthology,Disney+,2020-09-18,tt12221748,7.0,"6,680",N/A,N/A
+1022,Christopher Robin,Movie,2018,Drama,Disney+,2020-09-11,tt4575576,7.2,"84,367","$99,215,042",N/A
+1023,D2: The Mighty Ducks,Movie,1994,Comedy,Disney+,2020-09-04,tt0109520,6.1,"42,969","$45,610,410",N/A
+1024,D3: The Mighty Ducks,Movie,1996,Comedy,Disney+,2020-09-04,tt0116000,5.5,"28,532","$22,955,097",N/A
+1025,Earth to Ned,TV Show,2020,Comedy,Disney+,2020-09-04,tt11176048,6.6,424,,
+1026,Trick or Treat,Movie,1952,Animation,Disney+,2020-09-04,tt0092112,5.8,"7,795","$6,797,218",N/A
+1027,Alice Through the Looking Glass,Movie,2016,Action-Adventure,Disney+,2020-08-28,tt2567026,6.2,"122,141","$77,041,381",N/A
+1028,Phineas and Ferb The Movie: Candace Against the Universe,Movie,2020,Action-Adventure,Disney+,2020-08-28,tt1817232,7.0,"5,414",N/A,N/A
+1029,The One and Only Ivan,Movie,2020,Drama,Disney+,2020-08-21,tt3661394,6.6,"13,405",N/A,N/A
+1030,"Weirdest, Bestest, Truest",TV Show,2018,Animals & Nature,Disney+,2020-08-21,,,,,
+1031,Mars: One Day on the Red Planet,Movie,2020,Documentary,Disney+,2020-08-21,tt12611334,6.9,482,N/A,N/A
+1032,Beauty and the Beast,Movie,2017,Family,Disney+,2020-08-21,tt0101414,8.0,"479,443","$218,967,620",N/A
+1033,Back to the Titanic,Movie,2020,Documentary,Disney+,2020-08-21,tt12100782,6.2,448,N/A,N/A
+1034,The Greatest Showman,Movie,2017,Biographical,Disney+,2020-08-14,tt1485796,7.5,"311,501","$174,340,174",N/A
+1035,Wild Cats of India,TV Show,2020,Animals & Nature,Disney+,2020-08-14,tt11920706,7.5,78,,
+1036,Weird But True!,TV Show,2017,Animals & Nature,Disney+,2020-08-14,tt6057106,7.4,116,,
+1037,Scuba Sam's World,TV Show,2018,Animals & Nature,Disney+,2020-08-14,tt13399116,N/A,N/A,,
+1038,Spaced Out,TV Show,2018,Docuseries,Disney+,2020-08-14,tt0079937,4.4,720,N/A,N/A
+1039,Nature Boom Time,TV Show,2016,Animals & Nature,Disney+,2020-08-14,tt6805750,7.6,13,,
+1040,Sam's Zookeeper Challenge,TV Show,2018,Animals & Nature,Disney+,2020-08-14,tt13325238,N/A,6,,
+1041,Marvel Studios' Ant-Man and the Wasp,Movie,2018,Action-Adventure,Disney+,2020-08-14,,,,,
+1042,Magic Camp,Movie,2020,Comedy,Disney+,2020-08-14,tt3979300,6.3,"4,803",N/A,N/A
+1043,Jungle Animal Rescue,TV Show,2019,Animals & Nature,Disney+,2020-08-14,tt12690880,7.5,23,,
+1044,India's Wild Leopards,Movie,2020,Animals & Nature,Disney+,2020-08-14,tt11902274,7.8,53,N/A,N/A
+1045,Disney Zombies 2,Movie,2020,Coming of Age,Disney+,2020-08-14,,,,,
+1046,Disney Junior T.O.T.S.: Calling All T.O.T.S. (Shorts),TV Show,2020,Animation,Disney+,2020-08-14,,,,,
+1047,Howard,Movie,2020,Biographical,Disney+,2020-08-07,tt7682430,7.5,"1,433",N/A,N/A
+1048,Prince of Persia: The Sands of Time,Movie,2010,Action-Adventure,Disney+,2020-08-07,tt0473075,6.6,"303,806","$90,759,676",N/A
+1049,Star Wars: Galaxy's Edge-Adventure Awaits,Movie,2019,Documentary,Disney+,2020-08-07,tt10951528,5.8,205,N/A,N/A
+1050,The Hidden Kingdoms of China,Movie,2020,Animals & Nature,Disney+,2020-08-07,tt13975730,6.9,57,N/A,N/A
+1051,The Peanuts Movie,Movie,2015,Animation,Disney+,2020-08-07,tt2452042,7.0,"49,660","$130,178,411",N/A
+1052,UFO Europe: The Untold Stories,TV Show,2012,Docuseries,Disney+,2020-08-07,tt14271936,N/A,45,,
+1053,Surviving the Mount St. Helens Disaster,Movie,2020,Animals & Nature,Disney+,2020-07-31,tt12453440,7.3,172,N/A,N/A
+1054,Marvel Funko Shorts,TV Show,2016,Action-Adventure,Disney+,2020-07-31,,,,,
+1055,What Sam Sees,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt13326050,N/A,7,,
+1056,Muppets Now,TV Show,2020,Comedy,Disney+,2020-07-31,tt10857210,5.9,"1,318",,
+1057,Hunt for the Abominable Snowman,Movie,2011,Documentary,Disney+,2020-07-31,,,,,
+1058,Lost Temple of the Inca,Movie,2020,Documentary,Disney+,2020-07-31,tt11668444,6.7,172,N/A,N/A
+1059,King Fishers,TV Show,2013,Action-Adventure,Disney+,2020-07-31,tt3091520,7.0,33,,
+1060,Cradle of the Gods,Movie,2012,Documentary,Disney+,2020-07-31,tt2214921,6.8,126,N/A,N/A
+1061,Black Is King,Movie,2020,Dance,Disney+,2020-07-31,tt12607910,5.9,"9,401",N/A,N/A
+1062,Fearless Adventures with Jack Randall,TV Show,2018,Animals & Nature,Disney+,2020-07-31,,,,,
+1063,Big Cat Games,Movie,2015,Animals & Nature,Disney+,2020-07-31,,,,,
+1064,Best Job Ever,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt11686730,N/A,N/A,N/A,N/A
+1065,Animal Showdown,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt21798874,N/A,8,,
+1066,Destination World,TV Show,2018,Animals & Nature,Disney+,2020-07-31,tt14630178,N/A,6,,
+1067,Incredibles 2,Movie,2018,Action-Adventure,Disney+,2020-07-31,tt3606756,7.5,"329,595","$608,581,744",N/A
+1068,Pirates of the Caribbean: Dead Men Tell No Tales,Movie,2017,Action-Adventure,Disney+,2020-07-24,tt1790809,6.5,"343,186","$172,558,876",N/A
+1069,PJ Masks (Shorts),TV Show,2017,Action-Adventure,Disney+,2020-07-24,,,,,
+1070,Rogue Trip,TV Show,2020,Buddy,Disney+,2020-07-24,tt10225100,7.1,207,,
+1071,Wild Congo,TV Show,2014,Animals & Nature,Disney+,2020-07-24,tt19767844,N/A,51,,
+1072,Wild Sri Lanka,TV Show,2016,Animals & Nature,Disney+,2020-07-24,tt7871864,8.3,104,,
+1073,Diary of a Wimpy Kid: The Long Haul,Movie,2017,Comedy,Disney+,2020-07-17,tt6003368,4.3,"10,791","$20,738,724",N/A
+1074,Disney Junior Music Lullabies,TV Show,2018,Animation,Disney+,2020-07-17,,,,,
+1075,Wild Chile,TV Show,2017,Animals & Nature,Disney+,2020-07-17,tt11652174,7.6,102,,
+1076,X-Men: Apocalypse,Movie,2016,Action-Adventure,Disney+,2020-07-17,tt3385516,6.9,"460,882","$155,442,489",N/A
+1077,A Pre-Opening Report from Disneyland,Movie,1955,Documentary,Disney+,2020-07-17,,,,,
+1078,The Mouseketeers at Walt Disney World,Movie,1977,Coming of Age,Disney+,2020-07-17,tt0285749,8.4,34,N/A,N/A
+1079,Super Robot Monkey Team Hyperforce Go!,TV Show,2004,Action-Adventure,Disney+,2020-07-17,tt0423746,6.4,"2,605",,
+1080,Lost City of Machu Picchu,Movie,2019,Documentary,Disney+,2020-07-17,tt12768204,7.0,139,N/A,N/A
+1081,Hamilton: History Has Its Eyes on You,Movie,2020,Historical,Disney+,2020-07-10,tt12690910,6.4,81,N/A,N/A
+1082,X-Men: Days of Future Past,Movie,2014,Action-Adventure,Disney+,2020-07-10,tt1877832,7.9,"744,527","$233,921,534",N/A
+1083,Cosmos: A Spacetime Odyssey,TV Show,2013,Action-Adventure,Disney+,2020-07-10,tt2395695,9.3,"127,763",,
+1084,Solo: A Star Wars Story,Movie,2018,Action-Adventure,Disney+,2020-07-10,tt3778644,6.9,"378,738","$213,767,512",N/A
+1085,The Undefeated Presents: Hamilton In-Depth,Movie,2020,Historical,Disney+,2020-07-05,tt12690904,7.0,59,N/A,N/A
+1086,Ice Age: Collision Course,Movie,2016,Action-Adventure,Disney+,2020-07-03,tt3416828,5.7,"74,878","$64,063,008",N/A
+1087,The Mighty Ducks,Movie,1992,Comedy,Disney+,2020-07-03,tt0104868,6.6,"71,621","$50,752,337",N/A
+1088,The Big Green,Movie,1995,Comedy,Disney+,2020-07-03,tt0112499,5.5,"10,864","$17,736,619",N/A
+1089,Race to Witch Mountain,Movie,2009,Action-Adventure,Disney+,2020-07-03,tt1075417,5.7,"62,992","$67,172,594",N/A
+1090,Hamilton,Movie,2020,Biographical,Disney+,2020-07-03,tt8503618,8.3,"113,741",N/A,N/A
+1091,Diary of a Wimpy Kid: Rodrick Rules,Movie,2011,Comedy,Disney+,2020-07-03,tt1650043,6.6,"36,425","$52,698,535",N/A
+1092,While You Were Sleeping,Movie,1995,Comedy,Disney+,2020-07-03,tt0114924,6.8,"113,302","$81,057,016",N/A
+1093,Animal ER,TV Show,2016,Animals & Nature,Disney+,2020-07-03,tt6208226,7.9,94,,
+1094,Into the Unknown: Making Frozen 2,TV Show,2020,Docuseries,Disney+,2020-06-26,tt10196382,8.5,913,,
+1095,Disney A.N.T. Farm,TV Show,2011,Comedy,Disney+,2020-06-26,,,,,
+1096,Marvel Studios' Avengers: Infinity War,Movie,2018,Action-Adventure,Disney+,2020-06-26,,,,,
+1097,Tarzan II,Movie,2005,Action-Adventure,Disney+,2020-06-26,,,,,
+1098,Tarzan,Movie,1999,Action-Adventure,Disney+,2020-06-26,tt0120855,7.3,"246,458","$171,091,819",N/A
+1099,Man in Space,Movie,1955,Documentary,Disney+,2020-06-26,tt0863137,N/A,8,N/A,N/A
+1100,Mars and Beyond,Movie,1957,Animation,Disney+,2020-06-26,tt0206123,3.0,75,N/A,N/A
+1101,Disney Junior Muppet Babies Play Date,TV Show,2018,Comedy,Disney+,2020-06-19,,,,,
+1102,The Jungle Book,Movie,2016,Action-Adventure,Disney+,2020-06-19,tt3040964,7.4,"290,928","$364,001,123",N/A
+1103,The Pirate Fairy,Movie,2014,Action-Adventure,Disney+,2020-06-19,tt2483260,6.6,"12,366",N/A,N/A
+1104,Trail Mix-Up,Movie,1993,Action-Adventure,Disney+,2020-06-19,tt0108377,7.1,"1,157",N/A,N/A
+1105,Tummy Trouble,Movie,1989,Action-Adventure,Disney+,2020-06-19,tt0100821,7.2,"1,810",N/A,N/A
+1106,101 Dalmatians (Series),TV Show,1997,Action-Adventure,Disney+,2020-06-19,,,,,
+1107,Big Sur: Wild California,Movie,2010,Animals & Nature,Disney+,2020-06-19,,,,,
+1108,Egypt's Treasure Guardians,Movie,2016,Documentary,Disney+,2020-06-19,tt7264462,6.2,100,N/A,N/A
+1109,The Story of the Animated Drawing,Movie,1955,Documentary,Disney+,2020-06-12,tt4903486,N/A,N/A,N/A,N/A
+1110,Walt & El Grupo,Movie,2009,Documentary,Disney+,2020-06-12,tt1223150,6.4,447,"$20,521",N/A
+1111,The Liberty Story,Movie,1957,Drama,Disney+,2020-06-12,,,,,
+1112,Mighty Med,TV Show,2013,Comedy,Disney+,2020-06-12,tt2573338,6.5,"2,398",,
+1113,Artemis Fowl,Movie,2020,Action-Adventure,Disney+,2020-06-12,tt3089630,4.3,"30,315",N/A,N/A
+1114,Women Of Impact: Changing The World,Movie,2019,Documentary,Disney+,2020-06-05,tt11121644,6.0,75,N/A,N/A
+1115,Wild Hawaii,TV Show,2014,Animals & Nature,Disney+,2020-06-05,tt4380034,7.3,197,,
+1116,The Greeks,TV Show,2016,Docuseries,Disney+,2020-06-05,tt5848928,7.6,253,,
+1117,Secrets of Wild India,TV Show,2012,Animals & Nature,Disney+,2020-06-05,tt2718652,8.1,202,,
+1118,Alaska's Grizzly Gauntlet,TV Show,2018,Animals & Nature,Disney+,2020-06-05,tt8415880,6.5,68,,
+1119,America's Greatest Animals,Movie,2012,Animals & Nature,Disney+,2020-06-05,tt6293566,6.0,67,N/A,N/A
+1120,Chasing the Equinox,Movie,2019,Documentary,Disney+,2020-06-05,tt12413186,6.3,145,N/A,N/A
+1121,Howie Mandel's Animals Doing Things,TV Show,2017,Animals & Nature,Disney+,2020-06-05,tt8598154,3.6,68,,
+1122,Percy Jackson & The Olympians: The Lightning Thief,Movie,2010,Action-Adventure,Disney+,2020-06-05,tt0814255,5.9,"202,920","$88,768,303",N/A
+1123,Japan: Between Earth and Sky,TV Show,2017,Animals & Nature,Disney+,2020-06-05,tt11710062,7.5,172,,
+1124,"Maggie Simpson in ""The Longest Daycare""",Movie,2012,Animation,Disney+,2020-05-29,,,,,
+1125,The Moon-Spinners,Movie,1964,Crime,Disney+,2020-05-29,tt0058371,6.5,"2,977",N/A,N/A
+1126,The Evermoor Chronicles,TV Show,2015,Coming of Age,Disney+,2020-05-29,,,,,
+1127,Mickey and the Seal,Movie,1948,Animation,Disney+,2020-05-29,tt0040588,6.9,"1,335",N/A,N/A
+1128,Marvel's Future Avengers,TV Show,2017,Action-Adventure,Disney+,2020-05-22,,,,,
+1129,The Big Fib,TV Show,2019,Family,Disney+,2020-05-22,tt11241096,5.6,95,,
+1130,The Boys: The Sherman Brothers' Story,Movie,2009,Biographical,Disney+,2020-05-22,,,,,
+1131,"Hello, Dolly!",Movie,1969,Comedy,Disney+,2020-05-22,tt0064418,7.0,"16,933","$400,881",N/A
+1132,Fantastic Mr. Fox,Movie,2009,Animation,Disney+,2020-05-22,tt0432283,7.9,"270,091","$21,002,919",N/A
+1133,Doc McStuffins,TV Show,2011,Animation,Disney+,2020-05-22,tt1710295,6.5,"2,845",,
+1134,Out,Movie,2020,Animation,Disney+,2020-05-22,tt2096673,8.1,"785,373","$356,921,711",N/A
+1135,Maleficent: Mistress of Evil,Movie,2019,Action-Adventure,Disney+,2020-05-15,tt4777008,6.6,"118,754","$113,929,605",N/A
+1136,It's a Dog's Life with Bill Farmer,TV Show,2020,Animals & Nature,Disney+,2020-05-15,,,,,
+1137,Star Wars: The Rise of Skywalker (Episode IX),Movie,2019,Action-Adventure,Disney+,2020-05-04,,,,,
+1138,John Carter,Movie,2012,Action-Adventure,Disney+,2020-05-02,tt0401729,6.6,"285,349","$73,078,100",N/A
+1139,Disney Prop Culture,TV Show,2020,Docuseries,Disney+,2020-05-01,,,,,
+1140,United States Of Animals,TV Show,2015,Animals & Nature,Disney+,2020-05-01,tt6126926,6.3,25,,
+1141,Awesome Animals,TV Show,2017,Animals & Nature,Disney+,2020-05-01,tt12204682,N/A,8,,
+1142,Birth of Europe,TV Show,2014,Docuseries,Disney+,2020-05-01,tt2125050,7.1,101,,
+1143,Bride of Boogedy,Movie,1987,Action-Adventure,Disney+,2020-05-01,,,,,
+1144,George of the Jungle,Movie,1997,Action-Adventure,Disney+,2020-05-01,tt0119190,5.5,"84,392","$105,263,257",N/A
+1145,Water Birds,Movie,1952,Animals & Nature,Disney+,2020-05-01,tt0045314,6.6,317,N/A,N/A
+1146,Unlikely Animal Friends,TV Show,2012,Animals & Nature,Disney+,2020-05-01,tt2181679,7.3,120,,
+1147,Love & Vets,TV Show,2017,Animals & Nature,Disney+,2020-05-01,,,,,
+1148,The Princess Bride,Movie,1987,Action-Adventure,Disney+,2020-05-01,tt0093779,8.0,"450,789","$30,857,814",N/A
+1149,Homeward Bound: The Incredible Journey,Movie,1993,Action-Adventure,Disney+,2020-05-01,tt0107131,6.9,"50,971","$41,833,324",N/A
+1150,Homeward Bound II: Lost in San Francisco,Movie,1996,Action-Adventure,Disney+,2020-05-01,tt0116552,5.9,"16,168","$32,772,492",N/A
+1151,How to Play Baseball,Movie,1942,Animation,Disney+,2020-05-01,tt0034874,7.1,"1,312",N/A,N/A
+1152,In Beaver Valley,Movie,1950,Animals & Nature,Disney+,2020-05-01,,,,,
+1153,Lost Treasures Of Egypt,TV Show,2018,Docuseries,Disney+,2020-05-01,tt10115054,7.8,465,,
+1154,Buried Secrets Of The Bible With Albert Lin,TV Show,2019,Action-Adventure,Disney+,2020-05-01,tt12204636,6.7,318,,
+1155,Prowlers of the Everglades,Movie,1953,Animals & Nature,Disney+,2020-05-01,tt0280050,7.4,122,N/A,N/A
+1156,Nature's Half Acre,Movie,1951,Animals & Nature,Disney+,2020-05-01,tt0043839,6.9,273,N/A,N/A
+1157,Prairie Dog Manor,TV Show,2019,Animals & Nature,Disney+,2020-05-01,tt8316986,7.9,60,,
+1158,National Treasure,Movie,2004,Action-Adventure,Disney+,2020-04-30,tt0368891,6.9,"354,374","$173,008,894",N/A
+1159,Born Wild: The Next Generation,Movie,2020,Animals & Nature,Disney+,2020-04-28,tt12194646,7.8,40,N/A,N/A
+1160,The Olympic Elk,Movie,1952,Animals & Nature,Disney+,2020-04-24,tt0219222,6.8,137,N/A,N/A
+1161,America's Funniest Home Videos,TV Show,1989,Comedy,Disney+,2020-04-24,tt0098740,6.1,"5,763",,
+1162,Tangled: The Series,TV Show,2016,Action-Adventure,Disney+,2020-04-23,,,,,
+1163,Jane Goodall: The Hope,Movie,2020,Biographical,Disney+,2020-04-22,tt12137534,7.9,222,N/A,N/A
+1164,Brain Games,TV Show,2011,Docuseries,Disney+,2020-04-17,tt2078690,8.2,"3,523",,
+1165,Let's Stick Together,Movie,1952,Animation,Disney+,2020-04-17,tt0044835,6.7,615,N/A,N/A
+1166,Pluto's Purchase,Movie,1948,Animation,Disney+,2020-04-17,tt0040698,6.4,555,N/A,N/A
+1167,Disney Mickey and the Roadster Racers - Chip 'N' Dale's Nutty Tales (Shorts),TV Show,2017,Action-Adventure,Disney+,2020-04-17,,,,,
+1168,Tron Uprising,TV Show,2011,Action-Adventure,Disney+,2020-04-14,tt1812523,8.2,"8,788",,
+1169,Paradise Islands,TV Show,2017,Animals & Nature,Disney+,2020-04-10,,,,,
+1170,Tut's Treasures: Hidden Secrets,TV Show,2018,Docuseries,Disney+,2020-04-10,tt8174114,7.3,294,,
+1171,"Maggie Simpson in ""Playdate with Destiny""",Movie,2020,Animation,Disney+,2020-04-10,,,,,
+1172,Disney Playtime with Puppy Dog Pals (Shorts),TV Show,2017,Animation,Disney+,2020-04-10,,,,,
+1173,A Celebration of the Music from Coco,Movie,2020,Concert Film,Disney+,2020-04-10,tt12076020,7.0,290,N/A,N/A
+1174,Out of Scale,Movie,1951,Animation,Disney+,2020-04-03,tt0043890,7.4,"1,126",N/A,N/A
+1175,The Straight Story,Movie,1999,Biographical,Disney+,2020-04-03,tt0166896,8.0,"97,066","$6,203,044",N/A
+1176,The Small One,Movie,1978,Animation,Disney+,2020-04-03,tt0078281,7.5,"2,059",N/A,N/A
+1177,The New Neighbor,Movie,1953,Animation,Disney+,2020-04-03,tt0046125,7.1,854,N/A,N/A
+1178,The Boy Who Talked to Badgers,Movie,1975,Action-Adventure,Disney+,2020-04-03,tt0072728,5.3,164,N/A,N/A
+1179,Sonny With A Chance,TV Show,2008,Comedy,Disney+,2020-04-03,tt1252374,6.0,"13,021",,
+1180,Sea Scouts,Movie,1939,Animation,Disney+,2020-04-03,tt0031905,6.8,891,N/A,N/A
+1181,Pluto's Party,Movie,1952,Animation,Disney+,2020-04-03,tt0045038,6.4,775,N/A,N/A
+1182,Penguins: Life on the Edge,Movie,2020,Animals & Nature,Disney+,2020-04-03,tt12080904,6.8,197,N/A,N/A
+1183,Double Dribble,Movie,1946,Animation,Disney+,2020-04-03,tt0038489,6.6,984,N/A,N/A
+1184,Onward,Movie,2020,Action-Adventure,Disney+,2020-04-03,tt7146812,7.4,"169,886","$61,555,145",N/A
+1185,On Ice,Movie,1935,Animation,Disney+,2020-04-03,tt0026816,7.2,"1,836",N/A,N/A
+1186,"Lambert, The Sheepish Lion",Movie,1952,Animation,Disney+,2020-04-03,tt0044821,7.6,"2,573",N/A,N/A
+1187,In the Footsteps of Elephant,Movie,2020,Animals & Nature,Disney+,2020-04-03,tt12100044,7.2,238,N/A,N/A
+1188,How To Play Football,Movie,1944,Animation,Disney+,2020-04-03,tt0036933,7.0,"1,419",N/A,N/A
+1189,Fish Hooks,TV Show,2010,Animation,Disney+,2020-04-03,tt1725902,4.9,"4,055",,
+1190,Elmer Elephant,Movie,1936,Animation,Disney+,2020-04-03,tt0027569,6.8,"1,437",N/A,N/A
+1191,Elephant,Movie,2020,Animals & Nature,Disney+,2020-04-03,tt0363589,7.1,"96,741","$1,266,955",N/A
+1192,Dragon Around,Movie,1954,Animation,Disney+,2020-04-03,tt0046932,6.9,945,N/A,N/A
+1193,Donald's Dog Laundry,Movie,1940,Animation,Disney+,2020-04-03,tt0032401,6.7,"1,272",N/A,N/A
+1194,Don's Fountain of Youth,Movie,1953,Animation,Disney+,2020-04-03,tt0045696,7.0,926,N/A,N/A
+1195,Dolphin Reef,Movie,2018,Animals & Nature,Disney+,2020-04-03,tt10055028,7.4,"1,248",N/A,N/A
+1196,Diving with Dolphins,Movie,2020,Animals & Nature,Disney+,2020-04-03,tt12100080,7.0,215,N/A,N/A
+1197,Disneynature Penguins,Movie,2019,Animals & Nature,Disney+,2020-04-03,,,,,
+1198,A Tale of Two Critters,Movie,1977,Animals & Nature,Disney+,2020-04-03,tt0287003,5.9,244,N/A,N/A
+1199,All in a Nutshell,Movie,1949,Animation,Disney+,2020-04-03,tt0041112,7.3,"1,345",N/A,N/A
