@@ -1,5 +1,5 @@
 # netflixandchill
-Project 1 - Netflix and Disney+ data analysis with OMDB API
+Netflix and Disney+ data analysis with OMDB API
 
 ## Project Description:
 Our project aims to analyze and compare the content offerings, IMDB ratings, budgets, and subscription prices of Netflix and Disney+ between 2019-2021. We will address the research question: Does Netflix or Disney+ have higher  rated content? In addition to IMDb ratings, we will analyze content types and genres, trends in release years, and subscription prices. We will utilize datasets containing Netflix and Disney+ titles and metadata along with the OMDB API for ratings and streaming service price data. Through this project, we hope to gain insight into the evolving landscape of streaming services and their content strategies.
